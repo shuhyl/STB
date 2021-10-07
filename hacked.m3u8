@@ -295,10 +295,188 @@ http://pkr.cinepex.tv:8278/pogohindikdin/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="KIDS", Sony Yah
 http://70.39.83.58:8278/sonyyayhindikdin/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="KIDS", Sony aath active
+#EXTINF:-1 tvg-name="Movies Now HD" group-title=" ALL SONY",Movies Now HD
+http://ahaohoo.com/.1/tv1/play.php?id=2307&e=.m3u8
+#EXTINF:-1 tvg-name="WB" group-title=" ALL SONY",WB
+http://ahaohoo.com/.1/tv1/play.php?id=2306&e=.m3u8
+#EXTINF:-1 tvg-name="Zee Cafe HD" group-title=" ALL SONY",Zee Cafe HD
+http://ahaohoo.com/.1/tv1/play.php?id=2720&e=.m3u8
+#EXTINF:-1 tvg-name="Sony SD" group-title=" ALL SONY",Sony SD
+http://ahaohoo.com/.1/tv1/play.php?id=2690&e=.m3u8
+#EXTINF:-1 tvg-name="Sony Pix HD" group-title=" ALL SONY",Sony Pix HD
+http://ahaohoo.com/.1/tv1/play.php?id=2700&e=.m3u8
+#EXTINF:-1 tvg-name="Sony HD" group-title=" ALL SONY",Sony HD
+http://ahaohoo.com/.1/tv1/play.php?id=2689&e=.m3u8
+#EXTINF:-1 tvg-name="Sony Sab SD" group-title=" ALL SONY",Sony Sab SD
+http://ahaohoo.com/.1/tv1/play.php?id=2693&e=.m3u8
+#EXTINF:-1 tvg-name="Sony Sab HD" group-title=" ALL SONY",Sony Sab HD
+http://ahaohoo.com/.1/tv1/play.php?id=2692&e=.m3u8
+#EXTINF:-1 tvg-name="Sony Max HD" group-title=" ALL SONY",Sony Max HD
+http://ahaohoo.com/.1/tv1/play.php?id=2696&e=.m3u8
+#EXTINF:-1 tvg-name="Sony Max HD 2" group-title=" ALL SONY",Sony Max HD 2
+http://ahaohoo.com/.1/tv1/play.php?id=2695&e=.m3u8
+#EXTINF:-1 tvg-name="Sony Max 2" group-title=" ALL SONY",Sony Max 2
+http://ahaohoo.com/.1/tv1/play.php?id=2697&e=.m3u8
+#EXTINF:-1 tvg-name="&Pictures SD" group-title=" ALL SONY",&Pictures SD
+http://ahaohoo.com/.1/tv1/play.php?id=2729&e=.m3u8
+#EXTINF:-1 tvg-name="&Pictures HD" group-title=" ALL SONY",&Pictures HD
+http://ahaohoo.com/.1/tv1/play.php?id=2730&e=.m3u8
+#EXTINF:-1 tvg-name="Jalsha Movies HD" group-title=" ALL SONY",Jalsha Movies HD
+http://ahaohoo.com/.1/tv1/play.php?id=2495&e=.m3u8
+#EXTINF:-1 tvg-name="Ekattor HD" group-title=" ALL SONY",Ekattor HD
+http://ahaohoo.com/.1/tv1/play.php?id=2471&e=.m3u8
+#EXTINF:-1 tvg-name="NTV 2" group-title=" ALL SONY",NTV 2
+http://ahaohoo.com/.1/tv1/play.php?id=2458&e=.m3u8
+#EXTINF:-1 tvg-name="Independent TV" group-title=" ALL SONY",Independent TV
+http://ahaohoo.com/.1/tv1/play.php?id=2457&e=.m3u8
+#EXTINF:-1 tvg-name="Colors Bangla SD" group-title=" ALL SONY",Colors Bangla SD
+http://ahaohoo.com/.1/tv1/play.php?id=2456&e=.m3u8
+#EXTINF:-1 tvg-name="Bijoy TV HD" group-title=" ALL SONY",Bijoy TV HD
+http://ahaohoo.com/.1/tv1/play.php?id=2454&e=.m3u8
+#EXTINF:-1 tvg-name="Banglavision HD" group-title=" ALL SONY",Banglavision HD
+http://ahaohoo.com/.1/tv1/play.php?id=2453&e=.m3u8
+#EXTINF:-1 tvg-name="National Geographic" group-title=" ALL SONY",National Geographic
+http://ahaohoo.com/.1/tv1/play.php?id=2817&e=.m3u8
+#EXTINF:-1 tvg-name="Being Sports HD 3" group-title=" ALL SONY",Being Sports HD 3
+http://ahaohoo.com/.1/tv1/play.php?id=2811&e=.m3u8
+#EXTINF:-1 tvg-name="Boishakhi TV" group-title=" ALL SONY",Boishakhi TV
+http://ahaohoo.com/.1/tv1/play.php?id=2452&e=.m3u8
+#EXTINF:-1 tvg-name="Big Magic" group-title=" ALL SONY",Big Magic
+http://ahaohoo.com/.1/tv1/play.php?id=2763&e=.m3u8
+#EXTINF:-1 tvg-name="MTV India" group-title=" ALL SONY",MTV India
+http://ahaohoo.com/.1/tv1/play.php?id=2746&e=.m3u8
+#EXTINF:-1 tvg-name="B4U Music" group-title=" ALL SONY",B4U Music
+http://ahaohoo.com/.1/tv1/play.php?id=2751&e=.m3u8
+#EXTINF:-1 tvg-name="B4U Movies" group-title=" ALL SONY",B4U Movies
+http://ahaohoo.com/.1/tv1/play.php?id=2750&e=.m3u8
+#EXTINF:-1 tvg-name="Music India" group-title=" ALL SONY",Music India
+http://ahaohoo.com/.1/tv1/play.php?id=2755&e=.m3u8
+#EXTINF:-1 tvg-name="9XM" group-title=" ALL SONY",9XM
+http://ahaohoo.com/.1/tv1/play.php?id=2756&e=.m3u8
+#EXTINF:-1 tvg-name="Mastii" group-title=" ALL SONY",Mastii
+http://ahaohoo.com/.1/tv1/play.php?id=2758&e=.m3u8
+#EXTINF:-1 tvg-name="Dillagi" group-title=" ALL SONY",Dillagi
+http://ahaohoo.com/.1/tv1/play.php?id=2760&e=.m3u8
+#EXTINF:-1 tvg-name="Manoranjan Movies" group-title=" ALL SONY",Manoranjan Movies
+http://ahaohoo.com/.1/tv1/play.php?id=2762&e=.m3u8
+#EXTINF:-1 tvg-name="Colors Rishtey 2" group-title=" ALL SONY",Colors Rishtey 2
+http://ahaohoo.com/.1/tv1/play.php?id=2682&e=.m3u8
+#EXTINF:-1 tvg-name="Dhamaal" group-title=" ALL SONY",Dhamaal
+http://ahaohoo.com/.1/tv1/play.php?id=2764&e=.m3u8
+#EXTINF:-1 tvg-name="Maha Movie" group-title=" ALL SONY",Maha Movie
+http://ahaohoo.com/.1/tv1/play.php?id=2765&e=.m3u8
+#EXTINF:-1 tvg-name="DD Sports" group-title=" ALL SONY",DD Sports
+http://ahaohoo.com/.1/tv1/play.php?id=2777&e=.m3u8
+#EXTINF:-1 tvg-name="Dabang" group-title=" ALL SONY",Dabang
+http://ahaohoo.com/.1/tv1/play.php?id=2778&e=.m3u8
+#EXTINF:-1 tvg-name="test" group-title=" ALL SONY",test
+http://ahaohoo.com/.1/tv1/play.php?id=2790&e=.m3u8
+#EXTINF:-1 tvg-name="test 2" group-title=" ALL SONY",test 2
+http://ahaohoo.com/.1/tv1/play.php?id=2815&e=.m3u8
+#EXTINF:-1 tvg-name="Star Parvah HD" group-title=" ALL SONY",Star Parvah HD
+http://ahaohoo.com/.1/tv1/play.php?id=2800&e=.m3u8
+#EXTINF:-1 tvg-name="Manoranjan TV" group-title=" ALL SONY",Manoranjan TV
+http://ahaohoo.com/.1/tv1/play.php?id=2761&e=.m3u8
+#EXTINF:-1 tvg-name="News Time Bangla" group-title=" ALL SONY",News Time Bangla
+http://ahaohoo.com/.1/tv1/play.php?id=2488&e=.m3u8
+#EXTINF:-1 tvg-name="GB" group-title=" ALL SONY",GB
+http://ahaohoo.com/.1/tv1/play.php?id=2469&e=.m3u8
+#EXTINF:-1 tvg-name="Jamuna TV" group-title=" ALL SONY",Jamuna TV
+http://ahaohoo.com/.1/tv1/play.php?id=2472&e=.m3u8
+#EXTINF:-1 tvg-name="R Plus" group-title=" ALL SONY",R Plus
+http://ahaohoo.com/.1/tv1/play.php?id=2473&e=.m3u8
+#EXTINF:-1 tvg-name="Movie Bangla" group-title=" ALL SONY",Movie Bangla
+http://ahaohoo.com/.1/tv1/play.php?id=2474&e=.m3u8
+#EXTINF:-1 tvg-name="Channel 9 HD" group-title=" ALL SONY",Channel 9 HD
+http://ahaohoo.com/.1/tv1/play.php?id=2476&e=.m3u8
+#EXTINF:-1 tvg-name="Deepto TV" group-title=" ALL SONY",Deepto TV
+http://ahaohoo.com/.1/tv1/play.php?id=2477&e=.m3u8
+#EXTINF:-1 tvg-name="Sony Aath" group-title=" ALL SONY",Sony Aath
 http://ahaohoo.com/.1/tv1/play.php?id=2480&e=.m3u8
-
-
+#EXTINF:-1 tvg-name="NTV" group-title=" ALL SONY",NTV
+http://ahaohoo.com/.1/tv1/play.php?id=2607&e=.m3u8
+#EXTINF:-1 tvg-name="Ekushy TV" group-title=" ALL SONY",Ekushy TV
+http://ahaohoo.com/.1/tv1/play.php?id=2482&e=.m3u8
+#EXTINF:-1 tvg-name="Zee Bangla Cinema" group-title=" ALL SONY",Zee Bangla Cinema
+http://ahaohoo.com/.1/tv1/play.php?id=2464&e=.m3u8
+#EXTINF:-1 tvg-name="AB TV" group-title=" ALL SONY",AB TV
+http://ahaohoo.com/.1/tv1/play.php?id=2490&e=.m3u8
+#EXTINF:-1 tvg-name="Millenium TV" group-title=" ALL SONY",Millenium TV
+http://ahaohoo.com/.1/tv1/play.php?id=2491&e=.m3u8
+#EXTINF:-1 tvg-name="DD Bangla" group-title=" ALL SONY",DD Bangla
+http://ahaohoo.com/.1/tv1/play.php?id=2493&e=.m3u8
+#EXTINF:-1 tvg-name="Akash 8" group-title=" ALL SONY",Akash 8
+http://ahaohoo.com/.1/tv1/play.php?id=2494&e=.m3u8
+#EXTINF:-1 tvg-name="Purnima TV" group-title=" ALL SONY",Purnima TV
+http://ahaohoo.com/.1/tv1/play.php?id=2496&e=.m3u8
+#EXTINF:-1 tvg-name="PTC" group-title=" ALL SONY",PTC
+http://ahaohoo.com/.1/tv1/play.php?id=2500&e=.m3u8
+#EXTINF:-1 tvg-name="Dhoom Music" group-title=" ALL SONY",Dhoom Music
+http://ahaohoo.com/.1/tv1/play.php?id=2481&e=.m3u8
+#EXTINF:-1 tvg-name="RTV HD" group-title=" ALL SONY",RTV HD
+http://ahaohoo.com/.1/tv1/play.php?id=2449&e=.m3u8
+#EXTINF:-1 tvg-name="PTC Punjabi" group-title=" ALL SONY",PTC Punjabi
+http://ahaohoo.com/.1/tv1/play.php?id=2502&e=.m3u8
+#EXTINF:-1 tvg-name="Colors Rishtey 3" group-title=" ALL SONY",Colors Rishtey 3
+http://ahaohoo.com/.1/tv1/play.php?id=2683&e=.m3u8
+#EXTINF:-1 tvg-name="Rishtey Cineplex" group-title=" ALL SONY",Rishtey Cineplex
+http://ahaohoo.com/.1/tv1/play.php?id=2686&e=.m3u8
+#EXTINF:-1 tvg-name="Sony Pal" group-title=" ALL SONY",Sony Pal
+http://ahaohoo.com/.1/tv1/play.php?id=2698&e=.m3u8
+#EXTINF:-1 tvg-name="Zee TV HD" group-title=" ALL SONY",Zee TV HD
+http://ahaohoo.com/.1/tv1/play.php?id=2705&e=.m3u8
+#EXTINF:-1 tvg-name="Dangal" group-title=" ALL SONY",Dangal
+http://ahaohoo.com/.1/tv1/play.php?id=2722&e=.m3u8
+#EXTINF:-1 tvg-name="Zee Talkis HD" group-title=" ALL SONY",Zee Talkis HD
+http://ahaohoo.com/.1/tv1/play.php?id=2726&e=.m3u8
+#EXTINF:-1 tvg-name="Channel 24 HD" group-title=" ALL SONY",Channel 24 HD
+http://ahaohoo.com/.1/tv1/play.php?id=2467&e=.m3u8
+#EXTINF:-1 tvg-name="SATV HD" group-title=" ALL SONY",SATV HD
+http://ahaohoo.com/.1/tv1/play.php?id=2450&e=.m3u8
+#EXTINF:-1 tvg-name="Star Jalsha" group-title=" ALL SONY",Star Jalsha
+http://ahaohoo.com/.1/tv1/play.php?id=2466&e=.m3u8
+#EXTINF:-1 tvg-name="BTV World" group-title=" ALL SONY",BTV World
+http://ahaohoo.com/.1/tv1/play.php?id=2447&e=.m3u8
+#EXTINF:-1 tvg-name="Channel i HD" group-title=" ALL SONY",Channel i HD
+http://ahaohoo.com/.1/tv1/play.php?id=2446&e=.m3u8
+#EXTINF:-1 tvg-name="ATN News" group-title=" ALL SONY",ATN News
+http://ahaohoo.com/.1/tv1/play.php?id=2445&e=.m3u8
+#EXTINF:-1 tvg-name="ATN Bangla" group-title=" ALL SONY",ATN Bangla
+http://ahaohoo.com/.1/tv1/play.php?id=2444&e=.m3u8
+#EXTINF:-1 tvg-name="Somoy TV" group-title=" ALL SONY",Somoy TV
+http://ahaohoo.com/.1/tv1/play.php?id=2461&e=.m3u8
+#EXTINF:-1 tvg-name="Ruposhi Bangla" group-title=" ALL SONY",Ruposhi Bangla
+http://ahaohoo.com/.1/tv1/play.php?id=2462&e=.m3u8
+#EXTINF:-1 tvg-name="Asianet Movies" group-title=" ALL SONY",Asianet Movies
+http://ahaohoo.com/.1/tv1/play.php?id=2324&e=.m3u8
+#EXTINF:-1 tvg-name="Zee Kerelam HD" group-title=" ALL SONY",Zee Kerelam HD
+http://ahaohoo.com/.1/tv1/play.php?id=2340&e=.m3u8
+#EXTINF:-1 tvg-name="Udaya HD" group-title=" ALL SONY",Udaya HD
+http://ahaohoo.com/.1/tv1/play.php?id=2339&e=.m3u8
+#EXTINF:-1 tvg-name="Surya HD" group-title=" ALL SONY",Surya HD
+http://ahaohoo.com/.1/tv1/play.php?id=2338&e=.m3u8
+#EXTINF:-1 tvg-name="Sun HD" group-title=" ALL SONY",Sun HD
+http://ahaohoo.com/.1/tv1/play.php?id=2336&e=.m3u8
+#EXTINF:-1 tvg-name="KTV HD" group-title=" ALL SONY",KTV HD
+http://ahaohoo.com/.1/tv1/play.php?id=2335&e=.m3u8
+#EXTINF:-1 tvg-name="Gemini Movies" group-title=" ALL SONY",Gemini Movies
+http://ahaohoo.com/.1/tv1/play.php?id=2333&e=.m3u8
+#EXTINF:-1 tvg-name="Gemini" group-title=" ALL SONY",Gemini
+http://ahaohoo.com/.1/tv1/play.php?id=2331&e=.m3u8
+#EXTINF:-1 tvg-name="Star Telegu HD" group-title=" ALL SONY",Star Telegu HD
+http://ahaohoo.com/.1/tv1/play.php?id=2328&e=.m3u8
+#EXTINF:-1 tvg-name="Star Maa HD" group-title=" ALL SONY",Star Maa HD
+http://ahaohoo.com/.1/tv1/play.php?id=2327&e=.m3u8
+#EXTINF:-1 tvg-name="Polimer" group-title=" ALL SONY",Polimer
+http://ahaohoo.com/.1/tv1/play.php?id=2325&e=.m3u8
+#EXTINF:-1 tvg-name="Zee Tamil HD" group-title=" ALL SONY",Zee Tamil HD
+http://ahaohoo.com/.1/tv1/play.php?id=2323&e=.m3u8
+#EXTINF:-1 tvg-name="Colors Rishtey" group-title=" ALL SONY",Colors Rishtey
+http://ahaohoo.com/.1/tv1/play.php?id=2681&e=.m3u8
+#EXTINF:-1 tvg-name="MBC HD" group-title=" ALL SONY",MBC HD
+http://ahaohoo.com/.1/tv1/play.php?id=2342&e=.m3u8
+#EXTINF:-1 tvg-name="Sun Life" group-title=" ALL SONY",Sun Life
+http://ahaohoo.com/.1/tv1/play.php?id=2326&e=.m3
 
 
 
