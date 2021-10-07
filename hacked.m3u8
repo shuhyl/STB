@@ -214,7 +214,7 @@ http://10.16.100.203:8082/bangla/nEWs_24_local.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ICC", Nagorik TV
 http://10.16.100.203:8082/bangla/nagoriK_riptv_21.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ICC", Bijoy TV
-http://10.16.100.213:8080/hls/bijoytv.m3u8
+http://10.16.100.208:8082/hindi/Bijoytv_riptv_21.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ICC", GTV
 http://10.16.100.203:8082/bangla/TH-gazi_local.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ICC", Gaan Bangla
