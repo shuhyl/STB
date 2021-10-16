@@ -103,15 +103,7 @@ http://103.159.4.38:8080/BD-BANGLA-17/index.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Bangla", NTV
 http://103.159.4.38:8080/BD-BANGLA-18/index.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="Bangla", RTV
-https://indo51.gcdn.co/BANGLA-BD-RTV/index.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Bangla", Desh TV
-http://indo51.gcdn.co/BANGLA-BD-DESHTV/index.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Bangla", NTV
-https://indo51.gcdn.co/BANGLA-BD-NTV/index.m3u8
-
 #EXTINF:-1 tvg-logo=" " group-title="Indian",Sony AATH
-
 http://103.159.4.38:8080/IN-BANGLA-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Indian",Star Jolsha
 http://103.159.4.38:8080/IN-BANGLA-2/tracks-v1a1/mono.m3u8
