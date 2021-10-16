@@ -46,8 +46,6 @@ https://tempabs.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzb
 #EXTINF:-1 tvg-logo=" " group-title="Bangla", Bangla Vision
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="Bangla", ATN Islamic
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnislamictv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Bangla", Atn Islamic
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Bangla", Dbc news
@@ -84,7 +82,7 @@ http://103.159.4.38:8080/BD-BANGLA-4/index.m3u8
 http://103.159.4.38:8080/BD-BANGLA-6/index.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Bangla", 71 Tv
 http://103.159.4.38:8080/BD-BANGLA-7/index.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Bangla", Sony ten 2
+#EXTINF:-1 tvg-logo=" " group-title="Bangla", GTV
 http://103.159.4.38:8080/BD-BANGLA-8/index.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Bangla", Boishakhi
 http://103.159.4.38:8080/BD-BANGLA-10/index.m3u8
