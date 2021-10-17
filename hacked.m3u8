@@ -258,7 +258,7 @@ http://10.16.100.207:8082/sports/soNy6_dish.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ICC", Sony Ten 1
 http://10.16.100.207:8082/sports/sTen_1_riptv.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ICC", Sony Ten_2
-http://10.16.100.207:8082/sports/soNy_Ten2_riptv.m3u8
+https://tvstream.space/jtv/jxxx.php?c=Ten2_HD&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ICC", SonyTen_2
 http://10.16.100.203:8082/bangla/sOnyTen_2_riptv.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ICC", Sony_Ten3
