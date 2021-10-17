@@ -67,9 +67,6 @@ https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Bangla", Aljazeera
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/aljazeera.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="Bangla", Bangla channel
-http://str24.l9574.com/515.stream/index.m3u8
-
 #EXTINF:-1 tvg-logo=" " group-title="Bangla", Duronto
 https://shark2-3232.bd-cast.net/ban-duronto/index.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Bangla", Channel I
@@ -273,7 +270,7 @@ http://10.16.100.203:8082/bangla/TH-gazi_local.m3u8
 http://10.16.100.207:8082/sports/tSpots_loacal.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ICC", T_Sport 2
 http://10.16.100.203:8082/bangla/TH_tsports_dish.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", GTV 2
+#EXTINF:-1 tvg-logo=" " group-title="ICC", Gazi TV 2
 http://10.16.100.245/hindi/GaziTv_CMcl_TH.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS", Duronto
