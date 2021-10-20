@@ -78,6 +78,8 @@ http://103.108.140.164:1009/channel23/livestream/playlist.m3u8
 https://tempabs.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/canbanglatv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Bangla", Jonack Tv
 https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Bangla", Jara TV
+https://tempabs.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jaratv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="Bangla", Duronto
 https://shark2-3232.bd-cast.net/ban-duronto/index.m3u8
