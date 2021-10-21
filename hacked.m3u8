@@ -335,3 +335,5 @@ http://221.120.204.4/PTV-SPORTS-LOCKLE/index.m3u8
 http://103.109.56.116/live/skyfeed1021/index.m3u8
 #EXTINF:-1 tvg-logo=" " group-title=".", Discovery Bangla HD
 http://89.187.182.181:9090/SS_BD_DISCOVERY/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title=".", Peace Tv Bangla
+http://89.38.99.153:8032/eu_bangla_adapt/tracks-v1a1/mono.m3u8
