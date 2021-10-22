@@ -339,3 +339,5 @@ http://89.187.182.181:9090/SS_BD_DISCOVERY/tracks-v1a1/index.m3u8
 http://89.38.99.153:8032/eu_bangla_adapt/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title=".", Gazi Tv HD
 http://103.40.226.94:8080/hls/channel_1.m3u8
+#EXTINF:-1 tvg-logo=" " group-title=".", Sony AATH
+http://jo123.biz/jweb/m3u8.php?c=Sony_aath&q=800&e=junk.m3u8
