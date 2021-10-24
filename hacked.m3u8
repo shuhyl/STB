@@ -340,4 +340,21 @@ http://103.40.226.94:8080/hls/channel_1.m3u8
 #EXTINF:-1 tvg-logo=" " group-title=".", PTV Sport
 http://103.17.201.18:8000/play/a00v/index.m3u8
 
-
+#EXTINF:-1 tvg-logo=" " group-title=".", Gazi Tv
+http://10.16.100.245/hindi/GaziTv_CMcl_TH.m3u8
+#EXTINF:-1 tvg-logo=" " group-title=".", Gazi Tv
+http://10.16.100.203:8082/bangla/GaZItv_1$top.m3u8
+#EXTINF:-1 tvg-logo=" " group-title=".", Gazi Tv
+http://10.16.100.245/hindi/Gazitv_1Stop.m3u8
+#EXTINF:-1 tvg-logo=" " group-title=".", Gazi Tv
+http://10.16.100.207:8082/sports/GaZitV_1stOp.m3u8
+#EXTINF:-1 tvg-logo=" " group-title=".", T Sport
+http://10.16.100.207:8082/sports/tSpots_loacal.m3u8
+#EXTINF:-1 tvg-logo=" " group-title=".", T Sport
+http://10.16.100.245/hindi/T_Sports.m3u8
+#EXTINF:-1 tvg-logo=" " group-title=".", T Sport
+http://10.16.100.213:8080/hls/tsports.m3u8
+#EXTINF:-1 tvg-logo=" " group-title=".", T Sport
+http://10.16.100.203:8082/bangla/t$ports_1$top.m3u8
+#EXTINF:-1 tvg-logo=" " group-title=".", T Sport
+http://10.16.100.207:8082/sports/Tsports_1stop.m3u8
