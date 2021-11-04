@@ -306,8 +306,6 @@ http://70.39.83.58:8278/sonyyayhindikdin/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title=".", Khushboo Bangla
 https://idvd.multitvsolution.com/idvo/khushboo.m3u8
-#EXTINF:-1 tvg-logo=" " group-title=".", Gazi Tv
-http://shark2.dyndns.tv:5808/bd-gazi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title=".", Kids Cartoon
 http://54.39.134.91:9090/24x7_kids_cr3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title=".", Discovery Kids
