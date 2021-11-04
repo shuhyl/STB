@@ -337,6 +337,10 @@ http://103.40.226.94:8080/hls/channel_1.m3u8
 https://localiptv.tk/Local_IPTV_PLAYLIST/GAZI_TV_LIVE.m3u8
 #EXTINF:-1 tvg-logo=" " group-title=".", Star Sports 1 Hindi
 https://localiptv.tk/Local_IPTV_PLAYLIST/STAR_SPORTS_1_HINDI_LIVE.m3u8
+#EXTINF:-1 tvg-logo=" " group-title=".", Gazi Tv
+http://103.106.243.163:8989/gazi-tv/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title=".", T Sport
+http://103.106.243.163:8989/tsports/index.m3u8
 #EXTINF:-1 tvg-logo=" " group-title=".", Gazi TV
 http://10.16.100.203:8082/bangla/Gtv_BSl.m3u8
 
