@@ -85,46 +85,7 @@ http://162.244.81.142:1935/live/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="Bangla", Duronto
 https://shark2-3232.bd-cast.net/ban-duronto/index.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Bangla", Channel I
-http://103.159.4.38:8080/BD-BANGLA-1/index.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Bangla", Channel 24
-http://103.159.4.38:8080/BD-BANGLA-3/index.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Bangla", Jamuna TV
-http://103.159.4.38:8080/BD-BANGLA-4/index.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Bangla", Atn Bangla Uk
-http://103.159.4.38:8080/BD-BANGLA-6/index.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Bangla", 71 Tv
-http://103.159.4.38:8080/BD-BANGLA-7/index.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Bangla", GTV
-http://103.159.4.38:8080/BD-BANGLA-8/index.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Bangla", Boishakhi
-http://103.159.4.38:8080/BD-BANGLA-10/index.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Bangla", T SPORT
-http://103.159.4.38:8080/BD-BANGLA-11/index.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Bangla", News 24
-http://103.159.4.38:8080/BD-BANGLA-12/index.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Bangla", DBC NEWS
-http://103.159.4.38:8080/BD-BANGLA-13/index.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Bangla", ATN NEWS
-http://103.159.4.38:8080/BD-BANGLA-14/index.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Bangla", Ekhushe ETV
-http://103.159.4.38:8080/BD-BANGLA-16/index.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Bangla", Channel 9
-http://103.159.4.38:8080/BD-BANGLA-17/index.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Bangla", NTV
-http://103.159.4.38:8080/BD-BANGLA-18/index.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="Indian",Sony AATH
-http://103.159.4.38:8080/IN-BANGLA-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Indian",Star Jolsha
-http://103.159.4.38:8080/IN-BANGLA-2/tracks-v1a1/mono.m3u8
-https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Indian",Star Plus
-http://103.159.4.38:8080/IN-BANGLA-3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Indian",Zee Bangla
-http://103.159.4.38:8080/IN-BANGLA-4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Indian", Colors Bangla
-http://103.159.4.38:8080/IN-BANGLA-5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Indian", Colors Bangla 2
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Indian",Zee Bangla Cinema
