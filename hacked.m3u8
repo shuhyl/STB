@@ -331,8 +331,6 @@ http://idvd.multitvsolution.com/idvo/investigationdiscovery_540p/index.m3u8
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 #EXTINF:-1 tvg-logo=" " group-title=".", Peace Tv Bangla
 http://89.38.99.153:8032/eu_bangla_adapt/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=" " group-title=".", Gazi Tv HD
-http://103.40.226.94:8080/hls/channel_1.m3u8
 #EXTINF:-1 tvg-logo=" " group-title=".", Gazi Tv
 https://localiptv.tk/Local_IPTV_PLAYLIST/GAZI_TV_LIVE.m3u8
 #EXTINF:-1 tvg-logo=" " group-title=".", Star Sports 1 Hindi
