@@ -293,18 +293,6 @@ http://10.16.100.245/hindi/GaziTv_CMcl_TH.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS", Duronto
 http://89.187.185.89:3232/ban-duronto/index.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="KIDS", Nick toons
-http://103.159.4.38:8080/KIDS-1/index.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="KIDS", CN
-http://103.159.4.38:8080/KIDS-2/index.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="KIDS", Sonic
-http://103.159.4.38:8080/KIDS-3/index.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="KIDS", Discovery Kids
-http://103.159.4.38:8080/KIDS-5/index.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="KIDS", Pogo
-http://pkr.cinepex.tv:8278/pogohindikdin/playlist.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="KIDS", Sony Yah
-http://70.39.83.58:8278/sonyyayhindikdin/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title=".", Khushboo Bangla
 https://idvd.multitvsolution.com/idvo/khushboo.m3u8
