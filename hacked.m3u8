@@ -93,31 +93,6 @@ http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Indian", Star Movies
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="Sports", Star Sport 1
-http://103.159.4.38:8080/SPORTS-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Sports", Star Sport select
-http://103.159.4.38:8080/SPORTS-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Sports", Bein sport
-http://103.159.4.38:8080/SPORTS-5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Sports", Bein sports
-http://103.159.4.38:8080/SPORTS-6/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Sports", Sony Six
-http://103.159.4.38:8080/SPORTS-7/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Sports", Sony Ten 1
-http://103.159.4.38:8080/SPORTS-8/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Sports", Ten 3
-http://103.159.4.38:8080/SPORTS-9/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Sports", Ten 2
-http://103.159.4.38:8080/SPORTS-10/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Sports", Sport
-http://103.159.4.38:8080/SPORTS-11/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Sports", Euro Sport
-http://103.159.4.38:8080/SPORTS-12/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Sports", Bein Sport 3
-http://103.159.4.38:8080/SPORTS-13/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Sports", Bull Sport
-http://103.159.4.38:8080/SPORTS-15/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo=" " group-title="ICC", 71Tv
 http://10.16.100.205:8082/bangla/ekattor_tv_local_bD.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ICC", ATN News
