@@ -259,6 +259,8 @@ https://idvd.multitvsolution.com/idvo/turboeng_540p/index.m3u8
 https://idvd.multitvsolution.com/idvo/tlchdhindi_540p/index.m3u8
 #EXTINF:-1 tvg-logo=" " group-title=".", Discovery
 https://idvd.multitvsolution.com/idvo/discoveryeng_540p/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title=".", Discovery Science
+https://idvd.multitvsolution.com/idvo/discoverscienceeng_540p/index.m3u8
 #EXTINF:-1 tvg-logo=" " group-title=".", Animal Planet
 https://idvd.multitvsolution.com/idvo/aphd_540p/index.m3u8
 #EXTINF:-1 tvg-logo=" " group-title=".", Discovery hindi
