@@ -143,6 +143,8 @@ http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Indian", SONY HD
 http://221.120.204.4/SONY-HD-LOCKLE/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Indian", Sony Sab
+http://221.120.204.4/SONY-SAB-LOCKLE/index.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ICC", 71Tv
 http://10.16.100.205:8082/bangla/ekattor_tv_local_bD.m3u8
