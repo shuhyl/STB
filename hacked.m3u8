@@ -30,6 +30,14 @@ http://103.159.4.38:5868/SPORTS-12/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Sport", Sports
 http://103.159.4.38:5868/SPORTS-11/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="KIDS", Cartoon
+http://103.159.4.38:5868/KIDS-1/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="KIDS", CN
+http://103.159.4.38:5868/KIDS-2/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="KIDS", Cartoon
+http://103.159.4.38:8080/KIDS-5/index.m3u8
+
+
 #EXTINF:-1 tvg-logo=" " group-title="Bangla", Somoy Tv
 https://somoy.appv.jagobd.com:444/somoy/somoyt000011226615544544.stream/playlist.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
