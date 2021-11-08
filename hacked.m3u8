@@ -183,8 +183,9 @@ http://10.16.100.205:8082/bangla/bAnglA_tv_local.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ICC", BanglaVision
 http://10.16.100.203:8082/bangla/banglaviSion_local.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ICC", Bijoy TV
-http://10.16.100.208:8082/hindi/Bijoytv_riptv_21.m3u8
+http://10.16.100.203:8082/bangla/bIJoytV_riptv_21.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ICC", Channel 24
+
 http://10.16.100.213:8080/hls/channel24.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ICC", Channel I
 http://10.16.100.203:8082/bangla/chenel_I.m3u8
@@ -193,7 +194,7 @@ http://10.16.100.203:8082/bangla/DbcNews_riptv_21.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ICC", Deepto Tv
 http://10.16.100.203:8082/bangla/deeptoo_riptv_21.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ICC", Desh TV
-http://10.16.100.205:8082/bangla/dESh_tv_local_BD.m3u8
+http://10.16.100.208:8082/hindi/de$htV_1sTop.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ICC", Channel 9
 http://10.16.100.208:8082/hindi/Cannel_9N_riptv_21.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ICC", Boishakhi Tv
