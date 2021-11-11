@@ -315,6 +315,10 @@ https://idvd.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
 http://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
 #EXTINF:-1 tvg-logo=" " group-title=".", investigation Discovery
 http://idvd.multitvsolution.com/idvo/investigationdiscovery_540p/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title=".", Discovery Bangla
+https://last.gcdn.co/IND415/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title=".", National Geographic Bangla
+https://last.gcdn.co/IND414/index.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title=".", Peace Tv
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
@@ -359,4 +363,9 @@ http://10.16.100.207:8082/sports/Tsports_1stop.m3u8
 http://103.130.112.222:8085/hls/gtv/index.m3u8
 #EXTINF:-1 tvg-logo=" " group-title=".", Sony AATH
 http://last.gcdn.co/IND395/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title=".", Sony AATH 2
+http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/29119.m3u8
+
+
 
