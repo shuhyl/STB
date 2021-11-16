@@ -364,8 +364,6 @@ http://103.130.112.222:8085/hls/gtv/index.m3u8
 #EXTINF:-1 tvg-logo=" " group-title=".", Sony AATH
 http://last.gcdn.co/IND395/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title=".", Sony AATH 2
-http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/29119.m3u8
 
 
 
