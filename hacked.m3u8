@@ -358,7 +358,38 @@ https://last.gcdn.co/IND415/index.m3u8
 #EXTINF:-1 tvg-logo=" " group-title=".", Peace Tv Bangla
 https://last.gcdn.co/IND411/index.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title=".", Colors Bangla
+http://tv.alphamediazone.com:8089/thunderbd/66/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title=".", Star Jolsha
+http://tv.alphamediazone.com:8089/thunderbd/30/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title=".", Jolsha Movies
+http://tv.alphamediazone.com:8089/thunderbd/31/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title=".", Akash 8
+http://tv.alphamediazone.com:8089/thunderbd/32/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title=".", Zee Bangla Cinema
+http://tv.alphamediazone.com:8089/thunderbd/29/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title=".", Star Sport 1
+http://tv.alphamediazone.com:8089/thunderbd/25/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title=".", Sony Six
+http://tv.alphamediazone.com:8089/thunderbd/24/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title=".", ESPN
+http://tv.alphamediazone.com:8089/thunderbd/23/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title=".", Star Sport select 1
+http://tv.alphamediazone.com:8089/thunderbd/27/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title=".", Star Sport select 2
+http://tv.alphamediazone.com:8089/thunderbd/28/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title=".", Gan Bangla
+http://tv.alphamediazone.com:8089/thunderbd/58/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title=".", National Geographic
+http://tv.alphamediazone.com:8089/thunderbd/35/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title=".", Discovery Bangla
+http://tv.alphamediazone.com:8089/thunderbd/43/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title=".", Cartoon Network
+http://tv.alphamediazone.com:8089/thunderbd/79/index.m3u8
+
 #EXTINF:-1 tvg-logo=" " group-title=".", Sony AATH 2
 http://tv.alphamediazone.com:8089/thunderbd/33/index.m3u8
 #EXTINF:-1 tvg-logo=" " group-title=".", T Sport
 http://tv.alphamediazone.com:8089/thunderbd/102/index.m3u8
+
