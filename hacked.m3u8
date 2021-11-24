@@ -293,9 +293,6 @@ http://10.16.100.203:8082/bangla/t$ports_1$top.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ICC", T Sport
 http://10.16.100.207:8082/sports/Tsports_1stop.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title=".", GTV
-http://103.130.112.222:8085/hls/gtv/index.m3u8
-
 #EXTINF:-1 tvg-logo=" " group-title=".", Nick
 https://last.gcdn.co/IND354/index.m3u8
 
@@ -319,7 +316,6 @@ https://last.gcdn.co/IND396/index.m3u8
 https://last.gcdn.co/IND397/index.m3u8
 #EXTINF:-1 tvg-logo=" " group-title=".", Zee Bangla Cinema
 https://last.gcdn.co/IND398/tracks-v1a1/mono.m3u8
-
 
 #EXTINF:-1 tvg-logo=" " group-title=".", Gazi Tv
 https://last.gcdn.co/IND425/index.m3u8
