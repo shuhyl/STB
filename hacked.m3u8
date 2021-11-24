@@ -256,12 +256,7 @@ http://89.187.185.89:3232/ban-duronto/index.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title=".", Khushboo Bangla
 https://idvd.multitvsolution.com/idvo/khushboo.m3u8
-#EXTINF:-1 tvg-logo=" " group-title=".", Kids Cartoon
-http://54.39.134.91:9090/24x7_kids_cr3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=" " group-title=".", Discovery Kids
-https://idvd.multitvsolution.com/idvo/discoverykidshindi.m3u8    
-#EXTINF:-1 tvg-logo=" " group-title=".", Discovery Turbo
-https://idvd.multitvsolution.com/idvo/turboeng_540p/index.m3u8
+
 #EXTINF:-1 tvg-logo=" " group-title=".", TLC Hindi
 https://idvd.multitvsolution.com/idvo/tlchdhindi_540p/index.m3u8
 #EXTINF:-1 tvg-logo=" " group-title=".", Discovery
