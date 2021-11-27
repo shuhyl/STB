@@ -255,11 +255,6 @@ http://89.187.185.89:3232/ban-duronto/index.m3u8
 #EXTINF:-1 tvg-logo=" " group-title=".", Khushboo Bangla
 https://idvd.multitvsolution.com/idvo/khushboo.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title=".", Discovery Bangla
-https://last.gcdn.co/IND415/index.m3u8
-#EXTINF:-1 tvg-logo=" " group-title=".", National Geographic Bangla
-https://last.gcdn.co/IND414/index.m3u8
-
 #EXTINF:-1 tvg-logo=" " group-title=".", Peace Tv
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 #EXTINF:-1 tvg-logo=" " group-title=".", Peace Tv Bangla
