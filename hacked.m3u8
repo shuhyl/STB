@@ -420,9 +420,6 @@ http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/3415.m3u8
 #EXTINF:0 tvg-logo="" group-title="Indian Bangla", Khusboo Bangla
 http://idvd.multitvsolution.com/idvo/khushboo.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="Bangla", Gazi TV 
-http://103.78.255.178:8080/gtv/index.m3u8
-
 #EXTINF:-1 tvg-logo=" " group-title="EBOX", T Sport
 http://tv2.ebox.live:8080/live/nk-sixs.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="EBOX", T Sport
