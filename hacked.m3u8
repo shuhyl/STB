@@ -448,8 +448,8 @@ http://tv2.ebox.live:8080/live/starsports-3.m3u8
 http://tv2.ebox.live:8080/live/starsportsselect-1.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="EBOX", Star sport select 2
 http://tv2.ebox.live:8080/live/starsportsselect-2.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="EBOX", Star sport select 3
-http://tv2.ebox.live:8080/live/starsportsselect-3.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="EBOX", 
+
 #EXTINF:-1 tvg-logo=" " group-title="EBOX", PTV sports
 http://tv2.ebox.live:8080/live/ptvsports.m3u8
 
@@ -464,6 +464,8 @@ http://tv2.ebox.live:8080/live/nick.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="EBOX", Zee Bangla
 http://tv2.ebox.live:8080/live/zee-bangla.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="EBOX", Zee Bangla Cinema
+http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="EBOX", Color Bangla
 http://tv2.ebox.live:8080/live/colors-bangla.m3u8
 
