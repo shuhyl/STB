@@ -356,8 +356,6 @@ http://103.159.4.38:8080/IN-BANGLA-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ICC", Sony Aath 3
 http://jupiter.bdcabletv.com/SonyAath/video.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="Indian", Entertain Bangla
-http://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ICC", Gazi tv
 http://10.16.100.203:8082/bangla/TH-gazi_local.m3u8
@@ -385,19 +383,6 @@ http://10.16.100.203:8082/bangla/TH_tsports_dish.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ICC", Gazi TV 2
 http://10.16.100.245/hindi/GaziTv_CMcl_TH.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="KIDS", Duronto
-http://89.187.185.89:3232/ban-duronto/index.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title=".", Khushboo Bangla
-https://idvd.multitvsolution.com/idvo/khushboo.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title=".", Peace Tv
-http://82.114.67.178:8081/hls/PeaceTV.m3u8
-#EXTINF:-1 tvg-logo=" " group-title=".", Peace Tv Bangla
-http://89.38.99.153:8032/eu_bangla_adapt/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=" " group-title=".", Peace Tv Bangla
-http://199.223.252.162:8032/bangla_adaptive/index.m3u8
-
 #EXTINF:-1 tvg-logo=" " group-title="ICC", Gazi TV
 http://10.16.100.203:8082/bangla/Gtv_BSl.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ICC", Gazi TV
@@ -421,6 +406,21 @@ http://10.16.100.245/hindi/t$sports_1stOp.m3u8
 http://10.16.100.203:8082/bangla/t$ports_1$top.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ICC", T Sport
 http://10.16.100.207:8082/sports/Tsports_1stop.m3u8
+
+
+#EXTINF:-1 tvg-logo=" " group-title="KIDS", Duronto
+http://89.187.185.89:3232/ban-duronto/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title=".", Khushboo Bangla
+https://idvd.multitvsolution.com/idvo/khushboo.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title=".", Peace Tv
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
+#EXTINF:-1 tvg-logo=" " group-title=".", Peace Tv Bangla
+http://89.38.99.153:8032/eu_bangla_adapt/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=" " group-title=".", Peace Tv Bangla
+http://199.223.252.162:8032/bangla_adaptive/index.m3u8
+
 
 EXTINF:0 tvg-logo="" group-title="Indian Bangla", Star Jalsha
 http://103.109.56.116/live/skyfeed1003/index.m3u8
