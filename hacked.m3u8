@@ -350,91 +350,22 @@ http://10.16.100.203:8082/bangla/banglaviSion_local.m3u8
 http://10.16.100.203:8082/bangla/bIJoytV_riptv_21.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ICC", Channel 24
 
-http://10.16.100.213:8080/hls/channel24.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", Channel I
-http://10.16.100.203:8082/bangla/chenel_I.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", DBC News
-http://10.16.100.203:8082/bangla/DbcNews_riptv_21.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", Deepto Tv
-http://10.16.100.203:8082/bangla/deeptoo_riptv_21.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", Desh TV
-http://10.16.100.208:8082/hindi/de$htV_1sTop.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", Channel 9
-http://10.16.100.208:8082/hindi/Cannel_9N_riptv_21.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", Boishakhi Tv
-http://10.16.100.213:8080/hls/boishakhi.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", Ananda TV
-http://10.16.100.213:8080/hls/ananda.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", Dighi Bangla
-http://10.16.100.201:8082/bangla/digibangLa_HD_24_local.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", Ekhushe TV
-http://10.16.100.203:8082/bangla/ekushe_tv_local.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", Jamuna Tv
-http://10.16.100.201:8082/bangla/jaMuna_tv_local.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", Mohona TV
-http://10.16.100.205:8082/bangla/MoHoNa_tV_local.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", My Tv
-http://10.16.100.205:8082/bangla/mYTv_local_bd.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", NTV
-http://10.16.100.205:8082/bangla/nTv_localBd.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", RTV
-http://10.16.100.203:8082/bangla/rTV_local.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", News 24
-http://10.16.100.203:8082/bangla/nEWs_24_local.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", Nagorik TV
-http://10.16.100.203:8082/bangla/nagoriK_riptv_21.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", Bijoy TV
-http://10.16.100.208:8082/hindi/Bijoytv_riptv_21.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", GTV
-http://10.16.100.203:8082/bangla/TH-gazi_local.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", Gaan Bangla
-http://10.16.100.200:8082/hls/gan_bangla_local.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", Sony AATH
-https://tvstream.space/jtv/jxxx.php?c=Sony_aath&q=800&e=.m3u8
+
 #EXTINF:-1 tvg-logo=" " group-title="ICC", Sony AATH 2
 http://103.159.4.38:8080/IN-BANGLA-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ICC", Sony Aath 3
 http://jupiter.bdcabletv.com/SonyAath/video.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", Colors Bangla
-http://10.16.100.207:8082/sports/colors_bAngla_riptv.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", Akash 8
-http://10.16.100.204:8082/hls/akash_aat_local.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", Zee Bangla
-http://10.16.100.204:8082/hls/z_bangla_local.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", Kolkhata Bangla
-http://10.16.100.204:8082/hls/kolkatatv_local.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", Khusbo Bangla
-http://10.16.100.204:8082/hls/khushbo_TV_dish.m3u8
+
 #EXTINF:-1 tvg-logo=" " group-title="Indian", Entertain Bangla
 http://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", Star Jolsha
-http://10.16.100.204:8082/hls/star_Jalsha_local.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", And TV
-http://10.16.100.208:8082/hindi/andtv_1stop.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", Colors
-http://10.16.100.208:8082/hindi/colors_in_1stop.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", Sony Tv
-http://10.16.100.208:8082/hindi/sonytv_1stop_in.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", Star Plus
-http://10.16.100.200:8082/hls/star_Plus_local.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", Zee Tv HD
-http://10.16.100.208:8082/hindi/ztvhd_1stop_in.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", &Picture
-http://10.16.100.208:8082/hindi/&picture_1stop_in.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", B4Umovies
-http://10.16.100.208:8082/hindi/B4Umovies_1stop_in.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", Wow Music
-http://10.16.100.208:8082/hindi/wowmovies_1stop_in.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", B4u Music
-http://10.16.100.200:8082/hls/bforu_music_local.m3u8
+
 #EXTINF:-1 tvg-logo=" " group-title="ICC", Gazi tv
 http://10.16.100.203:8082/bangla/TH-gazi_local.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ICC", Sony Six
 http://10.16.100.207:8082/sports/soNy6_dish.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ICC", Sony Ten 1
 http://10.16.100.207:8082/sports/sTen_1_riptv.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", Sony Ten_2
-https://tvstream.space/jtv/jxxx.php?c=Ten2_HD&q=800&e=junk.m3u8
+
 #EXTINF:-1 tvg-logo=" " group-title="ICC", SonyTen_2
 http://10.16.100.203:8082/bangla/sOnyTen_2_riptv.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ICC", Sony_Ten3
