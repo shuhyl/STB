@@ -322,82 +322,11 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Indian", SONY HD
 http://221.120.204.4/SONY-HD-LOCKLE/index.m3u
 
-#EXTINF:-1 tvg-logo=" " group-title="ICC", Amanda TV
-http://10.16.100.207:8082/sports/anand@tv_1stOp.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", ATN News
-http://10.16.100.213:8080/hls/atnnews.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", Somoy News
-http://10.16.100.203:8082/bangla/somoy_riptv_21.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC",Jamuna TV
-http://10.16.100.203:8082/bangla/jamuna_riptv21.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", Asian TV
-http://10.16.100.203:8082/bangla/tv_AsiaN.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", ATN Bangla
-http://10.16.100.203:8082/bangla/ATN_bangla_local.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", Bangla TV
-http://10.16.100.205:8082/bangla/bAnglA_tv_local.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", BanglaVision
-http://10.16.100.203:8082/bangla/banglaviSion_local.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", Bijoy TV
-http://10.16.100.203:8082/bangla/bIJoytV_riptv_21.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", Channel 24
-
 
 #EXTINF:-1 tvg-logo=" " group-title="ICC", Sony AATH 2
 http://103.159.4.38:8080/IN-BANGLA-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ICC", Sony Aath 3
 http://jupiter.bdcabletv.com/SonyAath/video.m3u8
-
-
-#EXTINF:-1 tvg-logo=" " group-title="ICC", Gazi tv
-http://10.16.100.203:8082/bangla/TH-gazi_local.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", Sony Six
-http://10.16.100.207:8082/sports/soNy6_dish.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", Sony Ten 1
-http://10.16.100.207:8082/sports/sTen_1_riptv.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="ICC", SonyTen_2
-http://10.16.100.203:8082/bangla/sOnyTen_2_riptv.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", Sony_Ten3
-http://10.16.100.207:8082/sports/SoNy_Ten_3_riptv.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", Star Sport 2
-http://10.16.100.207:8082/sports/starsports_2_riptv.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", Star Sport Select 1
-http://10.16.100.207:8082/sports/star_sportsSelect_1HD_riptv.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", Star Sport Select 2
-http://10.16.100.207:8082/sports/star_sportsSelect_2_riptv.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", Gazi Tv HD
-http://10.16.100.203:8082/bangla/TH-gazi_local.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", T_Sport
-http://10.16.100.207:8082/sports/tSpots_loacal.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", T_Sport 2
-http://10.16.100.203:8082/bangla/TH_tsports_dish.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", Gazi TV 2
-http://10.16.100.245/hindi/GaziTv_CMcl_TH.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="ICC", Gazi TV
-http://10.16.100.203:8082/bangla/Gtv_BSl.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", Gazi TV
-http://10.16.100.207:8082/sports/TH_gtv-local.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", Gazi TV
-http://10.16.100.203:8082/bangla/TH-gazi_local.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", Gazi TV
-http://10.16.100.245/hindi/GaziTv_CMcl_TH.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", Gazi Tv
-http://10.16.100.213:8080/hls/gtv_bsl.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", Gazi Tv
-http://10.16.100.207:8082/sports/GaZitV_1stOp.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", T Sport
-http://10.16.100.207:8082/sports/tSpots_loacal.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", T Sport
-http://10.16.100.245/hindi/T_Sports.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", T Sport
-http://10.16.100.213:8080/hls/tsports.m3u8
-http://10.16.100.245/hindi/t$sports_1stOp.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", T Sport
-http://10.16.100.203:8082/bangla/t$ports_1$top.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ICC", T Sport
-http://10.16.100.207:8082/sports/Tsports_1stop.m3u8
 
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS", Duronto
@@ -412,7 +341,6 @@ http://82.114.67.178:8081/hls/PeaceTV.m3u8
 http://89.38.99.153:8032/eu_bangla_adapt/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title=".", Peace Tv Bangla
 http://199.223.252.162:8032/bangla_adaptive/index.m3u8
-
 
 EXTINF:0 tvg-logo="" group-title="Indian Bangla", Star Jalsha
 http://103.109.56.116/live/skyfeed1003/index.m3u8
