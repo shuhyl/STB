@@ -342,6 +342,10 @@ http://199.223.252.162:8032/bangla_adaptive/index.m3u8
 
 EXTINF:0 tvg-logo="" group-title="Indian Bangla", Star Jalsha
 http://103.109.56.116/live/skyfeed1003/index.m3u8
+
+EXTINF:0 tvg-logo="" group-title="Indian Bangla", Star Jalsha 2
+http://208.86.19.21/908.stream/index.m3u8
+
 #EXTINF:0 tvg-logo="" group-title="Indian Bangla", Sony Aath
 http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/29119.m3u8
 
@@ -355,14 +359,39 @@ http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/3412.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Indian Bangla", Jolsha Movies
 http://suncable.serveftp.com/jalshamuvies-enc/video.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="Indian Bangla", Jolsha Movies
+http://208.86.19.21:80/716.stream/index.m3u8
+
 #EXTINF:0 tvg-logo="" group-title="Indian Bangla", Zee Bangla
 http://103.109.56.116/live/skyfeed1004/index.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Indian Bangla", Zee Bangla 2
+http://208.86.19.21:80/906.stream/index.m3u8
+
 #EXTINF:0 tvg-logo="" group-title="Indian Bangla", Zee Bangla Cinema
 http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/3408.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Indian Bangla", Zee Bangla Cinema 2
+http://208.86.19.21:80/708.stream/index.m3u8
+
 #EXTINF:0 tvg-logo="" group-title="Indian Bangla", Colors Bangla
 http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/3415.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Indian Bangla", Colors Bangla 2
+http://208.86.19.21:80/904.stream/index.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Indian Bangla", Sun Bangla
+http://208.86.19.21:80/903.stream/index.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Indian Bangla", Akash 8
+http://208.86.19.21/902.stream/index.m3u8
+
+
 #EXTINF:0 tvg-logo="" group-title="Indian Bangla", Khusboo Bangla
 http://idvd.multitvsolution.com/idvo/khushboo.m3u8
+
+T Sports
+http://208.86.19.21/905.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="EBOX", T Sport
 http://tv2.ebox.live:8080/live/nk-sixs.m3u8
