@@ -461,9 +461,11 @@ http://103.159.4.38:8080/BD-BANGLA-11/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Sports", T Sport
 http://103.159.4.38:8080/BD-BANGLA-8/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="Sports", T Sport
+http://tv2.ebox.live:8080/live/nk-sixs.m3u8
 
-
-
+#EXTINF:-1 tvg-logo=" " group-title="Sports", T Sport
+http://tv2.ebox.live:8080/live/nk-tsports.m3u8
 
 
 
