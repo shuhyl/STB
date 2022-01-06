@@ -32,8 +32,6 @@ http://103.159.4.38:8080/BD-BANGLA-13/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="BDIX", ATN News
 http://103.159.4.38:8080/BD-BANGLA-14/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="BDIX", 
-http://103.159.4.38:8080/BD-BANGLA-15/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="BDIX", Ekushe
 http://103.159.4.38:8080/BD-BANGLA-16/tracks-v1a1/mono.m3u8
@@ -50,8 +48,11 @@ http://103.159.4.38:8080/BD-BANGLA-19/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="BDIX", Asian Tv
 http://103.159.4.38:8080/BD-BANGLA-22/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="BDIX", Star plus
-http://103.159.4.38:5868/IN-BANGLA-3/index.m3u8
+
+
+#EXTINF:-1 tvg-logo=" " group-title="BDIX", Zee Bangla
+http://103.159.4.38:5868/IN-BANGLA-4/index.m3u8
+
 
 #EXTINF:-1 tvg-logo=" " group-title="BDIX", National Geographic
 http://103.159.4.38:5868/ENTEMENT-4/tracks-v1a1/mono.m3u8
