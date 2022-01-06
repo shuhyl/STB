@@ -112,68 +112,54 @@ http://103.159.4.38:5868/SPORTS-15/tracks-v1a1/mono.m3u8
 http://103.159.4.38:5868/STARJALSHA/tracks-v1a1/mono.m3u8
 
 
-
-#EXTINF:-1 tvg-logo=" " group-title="BDIX-2", T Sport
+#EXTINF:-1 tvg-logo=" " group-title="EBOX", T Sport
 http://tv2.ebox.live:8080/live/nk-sixs.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="BDIX-2", T Sport
+#EXTINF:-1 tvg-logo=" " group-title="EBOX", T Sport
 http://tv2.ebox.live:8080/live/nk-tsports.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="BDIX-2", Sony Six
+#EXTINF:-1 tvg-logo=" " group-title="EBOX", Sony Six
 http://tv2.ebox.live:8080/live/sonysix.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="BDIX-2", Sony espn
+#EXTINF:-1 tvg-logo=" " group-title="EBOX", Sony espn
 http://tv2.ebox.live:8080/live/sonyespn.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="BDIX-2", Sony Ten 1
+#EXTINF:-1 tvg-logo=" " group-title="EBOX", Sony Ten 1
 http://tv2.ebox.live:8080/live/sonyten-1.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="BDIX-2", Sony Ten 2
+#EXTINF:-1 tvg-logo=" " group-title="EBOX", Sony Ten 2
 http://tv2.ebox.live:8080/live/sonyten-2.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="BDIX-2", Sony Ten 3
+#EXTINF:-1 tvg-logo=" " group-title="EBOX", Sony Ten 3
 http://tv2.ebox.live:8080/live/sonyten-3.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="BDIX-2", Ten Sports
+#EXTINF:-1 tvg-logo=" " group-title="EBOX", Ten Sports
 http://tv2.ebox.live:8080/live/ten-sports.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="BDIX-2", Star sport 1
+#EXTINF:-1 tvg-logo=" " group-title="EBOX", Star sport 1
 http://tv2.ebox.live:8080/live/starsports-1.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="BDIX-2", Star sport 1hindi
+#EXTINF:-1 tvg-logo=" " group-title="EBOX", Star sport 1hindi
 http://tv2.ebox.live:8080/live/starsports-1-hind.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="BDIX-2", 
+#EXTINF:-1 tvg-logo=" " group-title="EBOX", Star sport 2
 http://tv2.ebox.live:8080/live/starsportshd-2.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="BDIX-2", Star sport 2
+#EXTINF:-1 tvg-logo=" " group-title="EBOX", Star sport 3
 http://tv2.ebox.live:8080/live/starsports-3.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="BDIX-2", Star sport select 1
+#EXTINF:-1 tvg-logo=" " group-title="EBOX", Star sport select 1
 http://tv2.ebox.live:8080/live/starsportsselect-1.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="BDIX-2", Star sport select 2
+#EXTINF:-1 tvg-logo=" " group-title="EBOX", Star sport select 2
 http://tv2.ebox.live:8080/live/starsportsselect-2.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="EBOX", 
 
+#EXTINF:-1 tvg-logo=" " group-title="EBOX", PTV sports
+http://tv2.ebox.live:8080/live/ptvsports.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="BDIX-2", Discovery
+#EXTINF:-1 tvg-logo=" " group-title="EBOX", Discovery
 http://tv2.ebox.live:8080/live/discovery.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="BDIX-2", Animal Planet
+#EXTINF:-1 tvg-logo=" " group-title="EBOX", Animal Planet
 http://tv2.ebox.live:8080/live/animale-planet.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="BDIX-2", National Geographic
+#EXTINF:-1 tvg-logo=" " group-title="EBOX", National Geographic
 http://tv2.ebox.live:8080/live/natg.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="BDIX-2", Nick
+#EXTINF:-1 tvg-logo=" " group-title="EBOX", Nick
 http://tv2.ebox.live:8080/live/nick.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="BDIX-2", Zee Bangla
+#EXTINF:-1 tvg-logo=" " group-title="EBOX", Zee Bangla
 http://tv2.ebox.live:8080/live/zee-bangla.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="BDIX-2", Zee Bangla Cinema
+#EXTINF:-1 tvg-logo=" " group-title="EBOX", Zee Bangla Cinema
 http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
-
+#EXTINF:-1 tvg-logo=" " group-title="EBOX", Color Bangla
+http://tv2.ebox.live:8080/live/colors-bangla.m3u8
 
 
 
@@ -477,53 +463,5 @@ http://208.86.19.21/907.stream/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=" " group-title="EBOX", T Sport
-http://tv2.ebox.live:8080/live/nk-sixs.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="EBOX", T Sport
-http://tv2.ebox.live:8080/live/nk-tsports.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="EBOX", Sony Six
-http://tv2.ebox.live:8080/live/sonysix.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="EBOX", Sony espn
-http://tv2.ebox.live:8080/live/sonyespn.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="EBOX", Sony Ten 1
-http://tv2.ebox.live:8080/live/sonyten-1.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="EBOX", Sony Ten 2
-http://tv2.ebox.live:8080/live/sonyten-2.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="EBOX", Sony Ten 3
-http://tv2.ebox.live:8080/live/sonyten-3.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="EBOX", Ten Sports
-http://tv2.ebox.live:8080/live/ten-sports.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="EBOX", Star sport 1
-http://tv2.ebox.live:8080/live/starsports-1.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="EBOX", Star sport 1hindi
-http://tv2.ebox.live:8080/live/starsports-1-hind.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="EBOX", Star sport 2
-http://tv2.ebox.live:8080/live/starsportshd-2.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="EBOX", Star sport 3
-http://tv2.ebox.live:8080/live/starsports-3.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="EBOX", Star sport select 1
-http://tv2.ebox.live:8080/live/starsportsselect-1.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="EBOX", Star sport select 2
-http://tv2.ebox.live:8080/live/starsportsselect-2.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="EBOX", 
-
-#EXTINF:-1 tvg-logo=" " group-title="EBOX", PTV sports
-http://tv2.ebox.live:8080/live/ptvsports.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="EBOX", Discovery
-http://tv2.ebox.live:8080/live/discovery.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="EBOX", Animal Planet
-http://tv2.ebox.live:8080/live/animale-planet.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="EBOX", National Geographic
-http://tv2.ebox.live:8080/live/natg.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="EBOX", Nick
-http://tv2.ebox.live:8080/live/nick.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="EBOX", Zee Bangla
-http://tv2.ebox.live:8080/live/zee-bangla.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="EBOX", Zee Bangla Cinema
-http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="EBOX", Color Bangla
-http://tv2.ebox.live:8080/live/colors-bangla.m3u8
 
 
