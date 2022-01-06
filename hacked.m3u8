@@ -111,6 +111,72 @@ http://103.159.4.38:5868/SPORTS-15/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="BDIX", Star Jolsha HD
 http://103.159.4.38:5868/STARJALSHA/tracks-v1a1/mono.m3u8
 
+
+
+#EXTINF:-1 tvg-logo=" " group-title="BDIX-2", T Sport
+http://tv2.ebox.live:8080/live/nk-sixs.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="BDIX-2", T Sport
+http://tv2.ebox.live:8080/live/nk-tsports.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="BDIX-2", Sony Six
+http://tv2.ebox.live:8080/live/sonysix.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="BDIX-2", Sony espn
+http://tv2.ebox.live:8080/live/sonyespn.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="BDIX-2", Sony Ten 1
+http://tv2.ebox.live:8080/live/sonyten-1.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="BDIX-2", Sony Ten 2
+http://tv2.ebox.live:8080/live/sonyten-2.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="BDIX-2", Sony Ten 3
+http://tv2.ebox.live:8080/live/sonyten-3.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="BDIX-2", Ten Sports
+http://tv2.ebox.live:8080/live/ten-sports.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="BDIX-2", Star sport 1
+http://tv2.ebox.live:8080/live/starsports-1.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="BDIX-2", Star sport 1hindi
+http://tv2.ebox.live:8080/live/starsports-1-hind.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="BDIX-2", 
+http://tv2.ebox.live:8080/live/starsportshd-2.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="BDIX-2", Star sport 2
+http://tv2.ebox.live:8080/live/starsports-3.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="BDIX-2", Star sport select 1
+http://tv2.ebox.live:8080/live/starsportsselect-1.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="BDIX-2", Star sport select 2
+http://tv2.ebox.live:8080/live/starsportsselect-2.m3u8
+
+
+#EXTINF:-1 tvg-logo=" " group-title="BDIX-2", Discovery
+http://tv2.ebox.live:8080/live/discovery.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="BDIX-2", Animal Planet
+http://tv2.ebox.live:8080/live/animale-planet.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="BDIX-2", National Geographic
+http://tv2.ebox.live:8080/live/natg.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="BDIX-2", Nick
+http://tv2.ebox.live:8080/live/nick.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="BDIX-2", Zee Bangla
+http://tv2.ebox.live:8080/live/zee-bangla.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="BDIX-2", Zee Bangla Cinema
+http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
+
+
+
+
 #EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", ANANDA TV
 http://10.16.100.207:8082/sports/anand@tv_1stOp.m3u8
 
