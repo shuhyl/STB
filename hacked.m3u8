@@ -1,5 +1,70 @@
 #EXTM3U
 
+#EXTINF:0 tvg-logo="" group-title="BDIX-2", Sony Aath
+http://103.161.2.142/hls/Sony_Aath.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="BDIX-2", Jalsha Movies HD
+http://103.161.2.142/hls/jalshamovies.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="BDIX-2", Zee Bangla Cinema
+http://103.161.2.142/hls/zee-bangla-cinema.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="BDIX-2", Colors Bangla Cinema
+http://103.161.2.142/hls/colore-bangla-cinema.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="BDIX-2", Sun Bangla
+http://103.161.2.142/hls/sunbangla.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="BDIX-2", Colors Bangla
+http://103.161.2.142/hls/colorsbangla.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="BDIX-2", Zee Bangla
+http://103.161.2.142/hls/zeebanglahd.m3u8
+
+EXTINF:0 tvg-logo="" group-title="BDIX-2", Star Jalsha
+http://103.161.2.142/hls/starjalsha.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="BDIX-2", Travel XP Bangla
+http://103.161.2.142/hls/travelxp.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="BDIX-2", Discovery
+http://103.161.2.142/hls/discovery.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="BDIX-2", Discovery Science
+http://103.161.2.142/hls/dis-science.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="BDIX-2", National Geographic
+http://103.161.2.142/hls/ngohd.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="BDIX-2", Animal Planet
+http://103.161.2.142/hls/animalplanent.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="BDIX-2", Nat Geo wild
+http://103.161.2.142/hls/wild.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="BDIX-2", Sony BBC earth
+http://103.161.2.142/hls/bbcearth.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="BDIX-2", TLC
+http://103.161.2.142/hls/tlc.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="BDIX-2", T SPORTS
+http://103.161.2.142/hls/t-sports.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="BDIX-2", CN
+http://103.161.2.142/hls/cn.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="BDIX-2", Nick Bangla
+http://103.161.2.142/hls/nick.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="BDIX-2", Kids
+http://103.161.2.142/hls/dis-kid.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="BDIX-2", Pogo
+http://103.161.2.142/hls/pogo.m3u8
+
+
+
 #EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", ANANDA TV
 http://10.16.100.207:8082/sports/anand@tv_1stOp.m3u8
 
@@ -359,8 +424,12 @@ http://103.109.56.116/live/skyfeed1003/index.m3u8
 EXTINF:0 tvg-logo="" group-title="Indian Bangla", Star Jalsha 2
 http://208.86.19.21/908.stream/index.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="Indian Bangla", Sony Aath
-http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/29119.m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="Indian Bangla", Zee Bangla
+http://103.109.56.116/live/skyfeed1004/index.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="" group-title="Indian Bangla", Sony Aath 2
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6641/index.m3u8
@@ -375,20 +444,14 @@ http://suncable.serveftp.com/jalshamuvies-enc/video.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Indian Bangla", Jolsha Movies
 http://208.86.19.21:80/716.stream/index.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="Indian Bangla", Zee Bangla
-http://103.109.56.116/live/skyfeed1004/index.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="Indian Bangla", Zee Bangla 2
 http://208.86.19.21:80/906.stream/index.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="Indian Bangla", Zee Bangla Cinema
-http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/3408.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="Indian Bangla", Zee Bangla Cinema 2
 http://208.86.19.21:80/708.stream/index.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="Indian Bangla", Colors Bangla
-http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/3415.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="Indian Bangla", Colors Bangla 2
 http://208.86.19.21:80/904.stream/index.m3u8
