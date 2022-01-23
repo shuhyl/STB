@@ -9,9 +9,6 @@ http://10.16.100.207:8082/sports/Tsports_1stop.m3u8
 #EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", Asian TV
 http://10.16.100.203:8082/bangla/tv_AsiaN.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", ANANDA TV
-http://10.16.100.207:8082/sports/anand@tv_1stOp.m3u8
-
 #EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", ATN BANGLA
 http://10.16.100.203:8082/bangla/ATN_bangla_local.m3u8
 
@@ -27,12 +24,8 @@ http://10.16.100.203:8082/bangla/boishakhi.m3u8
 #EXTINF:-1 tvg-id=" " tvg-name="Ekattor HD" tvg-logo=" " group-title="ICC TV", Ekattor HD
 http://10.16.100.208:8082/hindi/ek@ttOrTV_1$tOp.m3u8
 
-
 #EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", BTV
 http://10.16.100.203:8082/bangla/BTv_NatiOnal_1stop.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", T Sports HD
-http://10.16.100.203:8082/bangla/TH_tsports_dish.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", Deepto TV
 http://10.16.100.203:8082/bangla/deeptoo_riptv_21.m3u8
@@ -42,8 +35,6 @@ http://10.16.100.245/hindi/ntv_1sT0p.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-name="RTV" tvg-logo=" " group-title="ICC TV", RTV
 http://10.16.100.245/hindi/R_tv_1st0p.m3u8
-
-
 
 #EXTINF:-1 tvg-id=" " tvg-name="Banglavision HD" tvg-logo=" " group-title="ICC TV", Banglavision HD
 http://10.16.100.203:8082/bangla/banglaviSion_local.m3u8
@@ -93,21 +84,19 @@ http://10.16.100.203:8082/bangla/Ganbangla_riptv.m3u8
 #EXTINF:-1 tvg-id=" " tvg-name="Asian TV HD" tvg-logo=" " group-title="ICC TV", Asian TV HD
 http://10.16.100.203:8082/bangla/tv_AsiaN.m3u8
 
-
-
 #EXTINF:-1 tvg-id=" " tvg-name="Channel i HD" tvg-logo=" " group-title="ICC TV", Channel i HD
 http://10.16.100.203:8082/bangla/chenel_I.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-name="Gazi HD 2" tvg-logo=" " group-title="ICC TV", Gazi HD 2
 http://10.16.100.207:8082/sports/TH_gtv-local.m3u8
 
-
-
 #EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", Nagorik TV
 http://10.16.100.245/hindi/n@g0riktv_1st0p.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", News 24 HD
-http://10.16.100.245/hindi/news24_1st0p.m3u8
+http://10.16.100.207:8082/sports/new$24_local.m3u8
+
+
 
 
 
@@ -397,14 +386,6 @@ http://103.159.4.38:8080/BD-BANGLA-11/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Sports", T Sport
 http://103.159.4.38:8080/BD-BANGLA-8/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="Sports", T Sport
-http://tv2.ebox.live:8080/live/nk-sixs.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="Sports", T Sport
-http://tv2.ebox.live:8080/live/nk-tsports.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="Sports", T Sport
-http://103.109.56.116/live/skyfeed1001/index.m3u8
 
 
 
