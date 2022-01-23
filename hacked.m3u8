@@ -2,7 +2,6 @@
 
 
 
-
 #EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", ANANDA TV
 http://10.16.100.207:8082/sports/anand@tv_1stOp.m3u8
 
@@ -356,21 +355,15 @@ http://89.38.99.153:8032/eu_bangla_adapt/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Islamic", Peace Tv Bangla
 http://199.223.252.162:8032/bangla_adaptive/index.m3u8
 
+
 EXTINF:0 tvg-logo="" group-title="Indian Bangla", Star Jalsha
 http://103.109.56.116/live/skyfeed1003/index.m3u8
-
-EXTINF:0 tvg-logo="" group-title="Indian Bangla", Star Jalsha 2
-http://208.86.19.21/908.stream/index.m3u8
-
 
 
 #EXTINF:0 tvg-logo="" group-title="Indian Bangla", Zee Bangla
 http://103.109.56.116/live/skyfeed1004/index.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="" group-title="Indian Bangla", Sony Aath 2
-http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6641/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Indian Bangla", Travel XP HD Bangla
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
@@ -379,36 +372,10 @@ http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/3412.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Indian Bangla", Jolsha Movies
 http://suncable.serveftp.com/jalshamuvies-enc/video.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="Indian Bangla", Jolsha Movies
-http://208.86.19.21:80/716.stream/index.m3u8
-
-
-#EXTINF:0 tvg-logo="" group-title="Indian Bangla", Zee Bangla 2
-http://208.86.19.21:80/906.stream/index.m3u8
-
-
-#EXTINF:0 tvg-logo="" group-title="Indian Bangla", Zee Bangla Cinema 2
-http://208.86.19.21:80/708.stream/index.m3u8
-
-
-#EXTINF:0 tvg-logo="" group-title="Indian Bangla", Colors Bangla 2
-http://208.86.19.21:80/904.stream/index.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="Indian Bangla", Sun Bangla
-http://208.86.19.21:80/903.stream/index.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="Indian Bangla", Akash 8
-http://208.86.19.21/902.stream/index.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="Indian Bangla", Khusboo Bangla
 http://idvd.multitvsolution.com/idvo/khushboo.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="Bangla", Sangeet Bangla
-http://208.86.19.21/907.stream/index.m3u8
-
-
-#EXTINF:-1 tvg-logo=" " group-title="Sports", T Sports
-http://208.86.19.21/905.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="Sports", T Sport
 http://103.159.4.38:8080/BD-BANGLA-11/tracks-v1a1/mono.m3u8
