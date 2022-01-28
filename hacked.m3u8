@@ -27,6 +27,9 @@ http://10.16.100.208:8082/hindi/ek@ttOrTV_1$tOp.m3u8
 #EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", BTV
 http://10.16.100.203:8082/bangla/BTv_NatiOnal_1stop.m3u8
 
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", BTV World
+http://10.16.100.208:8082/hindi/bTvwOrld_1stop.m3u8
+
 #EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", Deepto TV
 http://10.16.100.203:8082/bangla/deeptoo_riptv_21.m3u8
 
