@@ -70,7 +70,7 @@ http://10.16.100.203:8082/bangla/somoy_riptv_21.m3u8
 http://10.16.100.203:8082/bangla/ekushe_tv_local.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-name="GAZI TV HD" tvg-logo=" " group-title="ICC TV", GAZI TV HD
-http://10.16.100.203:8082/bangla/TH-gazi_local.m3u8
+http://live.flixhub.net/hls/Gazi-TV.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-name="Jamuna TV" tvg-logo=" " group-title="ICC TV", Jamuna TV
 http://10.16.100.203:8082/bangla/jamuna_riptv21.m3u8
