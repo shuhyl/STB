@@ -70,7 +70,7 @@ http://10.16.100.203:8082/bangla/somoy_riptv_21.m3u8
 http://10.16.100.203:8082/bangla/ekushe_tv_local.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-name="GAZI TV HD" tvg-logo=" " group-title="ICC TV", GAZI TV HD
-http://live.flixhub.net/hls/Gazi-TV.m3u8
+http://10.16.100.207:8082/sports/GaZitV_1stOp.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-name="Jamuna TV" tvg-logo=" " group-title="ICC TV", Jamuna TV
 http://10.16.100.203:8082/bangla/jamuna_riptv21.m3u8
@@ -91,7 +91,13 @@ http://10.16.100.203:8082/bangla/tv_AsiaN.m3u8
 http://10.16.100.203:8082/bangla/chenel_I.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-name="Gazi HD 2" tvg-logo=" " group-title="ICC TV", Gazi HD 2
-http://10.16.100.207:8082/sports/TH_gtv-local.m3u8
+http://10.16.100.245/hindi/Gazitv_1Stop.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name="Gazi HD 2" tvg-logo=" " group-title="ICC TV", Gazi HD 3
+http://10.16.100.203:8082/bangla/GaZItv_1$top.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", Nagorik TV
 http://10.16.100.245/hindi/n@g0riktv_1st0p.m3u8
