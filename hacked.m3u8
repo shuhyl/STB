@@ -147,129 +147,6 @@ http://10.16.100.207:8082/sports/ssportsselect2hd_1$top.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=" " group-title="BDIX", Channel I
-http://103.159.4.38:8080/BD-BANGLA-1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="BDIX", Jamuna TV
-http://103.159.4.38:8080/BD-BANGLA-3/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="BDIX", Jamuna TV
-http://103.159.4.38:8080/BD-BANGLA-4/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="BDIX", ATN Bangla
-http://103.159.4.38:8080/BD-BANGLA-6/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="BDIX", 71 Tv
-http://103.159.4.38:8080/BD-BANGLA-7/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="BDIX", T Sport
-http://103.159.4.38:8080/BD-BANGLA-8/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="BDIX", Boishaki
-http://103.159.4.38:8080/BD-BANGLA-10/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="BDIX", T Sport
-http://103.159.4.38:8080/BD-BANGLA-11/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="BDIX", News 24
-http://103.159.4.38:8080/BD-BANGLA-12/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="BDIX", Gan Bangla
-http://103.159.4.38:8080/BD-BANGLA-13/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="BDIX", ATN News
-http://103.159.4.38:8080/BD-BANGLA-14/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 tvg-logo=" " group-title="BDIX", Ekushe
-http://103.159.4.38:8080/BD-BANGLA-16/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="BDIX", Bangla TV
-http://103.159.4.38:8080/BD-BANGLA-17/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="BDIX", NTV
-http://103.159.4.38:8080/BD-BANGLA-18/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="BDIX", Massrangha Tv
-http://103.159.4.38:8080/BD-BANGLA-19/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="BDIX", Asian Tv
-http://103.159.4.38:8080/BD-BANGLA-22/tracks-v1a1/mono.m3u8
-
-
-
-#EXTINF:-1 tvg-logo=" " group-title="BDIX", Zee Bangla
-http://103.159.4.38:5868/IN-BANGLA-4/index.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="BDIX", Star Jolsha
-http://103.159.4.38:5868/IN-BANGLA-6/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo=" " group-title="BDIX", National Geographic
-http://103.159.4.38:5868/ENTEMENT-4/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="BDIX", Rts
-http://103.159.4.38:5868/ENTEMENT-5/tracks-v1a1/mono.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo=" " group-title="BDIX", 9XM
-http://103.159.4.38:5868/MUSIC-1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="BDIX", WOW Cinema
-http://103.159.4.38:5868/MUSIC-2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="BDIX", B4U
-http://103.159.4.38:5868/MUSIC-3/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="BDIX", 9X jalwa
-http://103.159.4.38:5868/MUSIC-5/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="BDIX", Radio 20
-http://103.159.4.38:5868/MUSIC-7/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="BDIX", 9x jakkas
-http://103.159.4.38:5868/MUSIC-9/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="BDIX", Music
-http://103.159.4.38:5868/MUSIC-10/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="BDIX", Sport1
-http://103.159.4.38:5868/SPORTS-1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="BDIX", sport 2
-http://103.159.4.38:5868/SPORTS-2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="BDIX", sport 3
-http://103.159.4.38:5868/SPORTS-6/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="BDIX", Sony Six
-http://103.159.4.38:5868/SPORTS-7/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="BDIX", Sony Ten 1
-http://103.159.4.38:5868/SPORTS-8/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="BDIX", Sony Ten 3
-http://103.159.4.38:5868/SPORTS-9/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="BDIX", Ten 3
-http://103.159.4.38:5868/SPORTS-10/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="BDIX", Sky Sport
-http://103.159.4.38:5868/SPORTS-12/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="BDIX", Optus sport
-http://103.159.4.38:5868/SPORTS-13/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="BDIX", Red bull Sport
-http://103.159.4.38:5868/SPORTS-15/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 tvg-logo=" " group-title="BDIX", Star Jolsha HD
-http://103.159.4.38:5868/STARJALSHA/tracks-v1a1/mono.m3u8
-
 
 
 
@@ -392,8 +269,6 @@ http://221.120.204.4/colours-hd-LOCKLE/playlist.m3u8
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Indian", Star Movies
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Indian", SONY HD
-http://221.120.204.4/SONY-HD-LOCKLE/index.m3u
 
 
 #EXTINF:-1 tvg-logo=" " group-title="Indian Bangla", Sony Aath
@@ -419,15 +294,6 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 http://idvd.multitvsolution.com/idvo/khushboo.m3u8
 
 
-#EXTINF:-1 tvg-logo=" " group-title="Sports", T Sport
-http://103.159.4.38:8080/BD-BANGLA-11/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="Sports", T Sport
-http://103.159.4.38:8080/BD-BANGLA-8/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 tvg-logo=" " group-title="Sports", GAZI TV
-https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 
 
 
