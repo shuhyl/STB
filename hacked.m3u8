@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id=" " tvg-name="TSports" tvg-logo=" " group-title="ICC TV", T Sports
-http://10.16.100.245/hindi/Tsport$local.m3u8
+http://10.16.100.203:8082/bangla/t$ports_1$top.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-name="TSports" tvg-logo=" " group-title="ICC TV", T Sports 2
 http://10.16.100.207:8082/sports/Tsports_1stop.m3u8
