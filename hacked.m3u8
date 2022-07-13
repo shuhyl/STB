@@ -7,7 +7,7 @@ http://10.16.100.203:8082/bangla/t$ports_1$top.m3u8
 http://10.16.100.207:8082/sports/Tsports_1stop.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-name="GAZI TV HD" tvg-logo=" " group-title="ICC TV", GAZI TV HD
-http://10.16.100.207:8082/sports/GaZitV_1stOp.m3u8
+http://10.16.100.245/hindi/Gazitv_1Stop.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", Asian TV
 http://10.16.100.203:8082/bangla/tv_AsiaN.m3u8
