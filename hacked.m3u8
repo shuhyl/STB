@@ -119,13 +119,15 @@ http://10.16.100.204:8082/hls/zeeb@ngla.m3u8
 http://10.16.100.245/hindi/pTvSp0rts.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", Sony Six
-http://10.16.100.207:8082/sports/s0ny6six.m3u8
+http://10.16.100.207:8088/sports/sony6six_local.m3u8
+
 
 #EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", Sony Ten 1
 http://10.16.100.207:8082/sports/s0nytEn_1onehd.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", Sony Ten 2
-http://10.16.100.207:8082/sports/sonyTen2_twohd.m3u8
+http://10.16.100.207:8088/sports/ten2hd_local.m3u8
+http://10.16.100.245/hindi/ten2HD_templocal.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", Sony Ten 3
 http://10.16.100.207:8082/sports/s0ny_ten3three.m3u8
@@ -137,10 +139,13 @@ http://10.16.100.207:8082/sports/starsp0rt$1oneHD.m3u8
 http://10.16.100.207:8082/sports/st@r$port$2twoHD.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", Select 1
-http://10.16.100.207:8082/sports/ssselecthd1one.m3u8
+http://10.16.100.207:8088/sports/starsselect1hd_locl.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", Select 2
-http://10.16.100.207:8082/sports/ssportsselect2hd_1$top.m3u8
+http://10.16.100.207:8088/sports/sportselect2_hd.m3u8
+
+
+
 
 
 #EXTINF:-1 group-title="Jagobd" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png",T SPORTS
