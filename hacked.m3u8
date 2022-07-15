@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id=" " tvg-name="TSports" tvg-logo=" " group-title="ICC TV", T Sports
 http://10.16.100.203:8082/bangla/t$ports_1$top.m3u8
 
-#EXTINF:-1 group-title="ICC" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png",T Sports HD(BDIX)
+#EXTINF:-1 group-title="ICC TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png",T Sports HD(BDIX)
 http://nayeemparvez-hp.zapto.org/tv.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-name="GAZI TV HD" tvg-logo=" " group-title="ICC TV", GAZI TV HD
