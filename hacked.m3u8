@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-id=" " tvg-name="TSports" tvg-logo=" " group-title="ICC TV", T Sports
 http://10.16.100.203:8082/bangla/t$ports_1$top.m3u8
 
+#EXTINF:-1 group-title="ICC" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png",T Sports HD(BDIX)
+http://nayeemparvez-hp.zapto.org/tv.m3u8
+
 #EXTINF:-1 tvg-id=" " tvg-name="GAZI TV HD" tvg-logo=" " group-title="ICC TV", GAZI TV HD
 http://10.16.100.245/hindi/Gazitv_1Stop.m3u8
 
@@ -330,6 +333,9 @@ https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 
 #EXTINF:-1 group-title="Jagobd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSGPCmBgjEseXegUFsZnAMzEuqNJNopLpApz8XhEBAv5JWtSYbT&usqp=CAU",RTV BD (JagoBD)
 https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://dl.dropbox.com/s/59vk3mdm4cl1ojc/channel_s_bd.png",Channel S (BD)
+https://live.tvdhaka.com:30443/live/channels/chunks.m3u8
 
 #EXTINF:-1 group-title="BANGLA IPTV" tvg-logo="http://cdn.bongobd.com/upload/channels/landscape/H86bSTqPN6O.png",ATN Music
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
