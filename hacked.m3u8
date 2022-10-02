@@ -1,157 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id=" " tvg-name="TSports" tvg-logo=" " group-title="ICC TV", T Sports
-http://10.16.100.211/sports/gazitv@.m3u8
-http://10.16.100.203:8082/bangla/t$ports_1$top.m3u8
-
-#EXTINF:-1 group-title="ICC TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png",T Sports HD(BDIX)
-http://10.16.100.245/hindi/ptvSports_1ocal.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-name="GAZI TV HD" tvg-logo=" " group-title="ICC TV", GAZI TV HD
-http://10.16.100.245/hindi/Gazitv_1Stop.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", Asian TV
-http://10.16.100.203:8082/bangla/tv_AsiaN.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", ATN BANGLA
-http://10.16.100.203:8082/bangla/ATN_bangla_local.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-name="ATN News" tvg-logo=" " group-title="ICC TV", ATN News
-http://10.16.100.245/hindi/atNnews_1st0p.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-name="Bangla TV HD" tvg-logo=" " group-title="ICC TV", Bangla TV HD
-http://10.16.100.245/hindi/b@ngla_tv_1stop.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", Boishakhi TV
-http://10.16.100.203:8082/bangla/boishakhi.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-name="Ekattor HD" tvg-logo=" " group-title="ICC TV", Ekattor HD
-http://10.16.100.208:8082/hindi/ek@ttOrTV_1$tOp.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", BTV
-http://10.16.100.203:8082/bangla/BTv_NatiOnal_1stop.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", BTV World
-http://10.16.100.203:8082/bangla/btb_w0rld_1stOp.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", Deepto TV
-http://10.16.100.203:8082/bangla/deeptoo_riptv_21.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-name="NTV" tvg-logo=" " group-title="ICC TV", NTV
-http://10.16.100.245/hindi/ntv_1sT0p.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-name="RTV" tvg-logo=" " group-title="ICC TV", RTV
-http://10.16.100.204:8082/hls/rtv_local.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-name="Banglavision HD" tvg-logo=" " group-title="ICC TV", Banglavision HD
-http://10.16.100.203:8082/bangla/banglaviSion_local.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-name="Bijoy TV HD" tvg-logo=" " group-title="ICC TV", Bijoy TV HD
-http://10.16.100.203:8082/bangla/bIJoytV_riptv_21.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-name="Channel 24" tvg-logo=" " group-title="ICC TV", Channel 24
-http://10.16.100.245/hindi/channeL24_1st0p.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-name="Channel 24" tvg-logo=" " group-title="ICC TV", Channel 9
-http://10.16.100.208:8082/hindi/chanNel9nine_1$top.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-name="DBC News HD" tvg-logo=" " group-title="ICC TV", DBC News HD
-http://10.16.100.203:8082/bangla/DbcNews_riptv_21.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-name="Desh TV" tvg-logo=" " group-title="ICC TV", Desh TV
-http://10.16.100.245/hindi/de$htv_1st0p.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-name="Digi Bangla 24 HD" tvg-logo=" " group-title="ICC TV", Maasranga Tv
-http://10.16.100.208:8082/hindi/m@sranga_1stOP.m3u8
-
-
-#EXTINF:-1 tvg-id=" " tvg-name="Digi Bangla 24 HD" tvg-logo=" " group-title="ICC TV", SATV
-http://10.16.100.245/hindi/s@tv_1st0p.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-name="Digi Bangla 24 HD" tvg-logo=" " group-title="ICC TV", Somoy TV
-http://10.16.100.203:8082/bangla/somoy_riptv_21.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-name="Ekushey TV" tvg-logo=" " group-title="ICC TV", Ekushey TV
-http://10.16.100.203:8082/bangla/ekushe_tv_local.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-name="Jamuna TV" tvg-logo=" " group-title="ICC TV", Jamuna TV
-http://10.16.100.203:8082/bangla/jamuna_riptv21.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-name="Mohona TV HD" tvg-logo=" " group-title="ICC TV", Mohona TV HD
-http://10.16.100.208:8082/hindi/mohon@_1sTop.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-name="My TV HD" tvg-logo=" " group-title="ICC TV", My TV HD
-http://10.16.100.208:8082/hindi/mytV_1$stop.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-name="GaanBangla HD" tvg-logo=" " group-title="ICC TV", GaanBangla HD
-http://10.16.100.203:8082/bangla/Ganbangla_riptv.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-name="Asian TV HD" tvg-logo=" " group-title="ICC TV", Asian TV HD
-http://10.16.100.203:8082/bangla/tv_AsiaN.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-name="Channel i HD" tvg-logo=" " group-title="ICC TV", Channel i HD
-http://10.16.100.203:8082/bangla/chenel_I.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-name="Gazi HD 2" tvg-logo=" " group-title="ICC TV", Gazi HD 2
-http://10.16.100.245/hindi/Gazitv_1Stop.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-name="Gazi HD 2" tvg-logo=" " group-title="ICC TV", Gazi HD 3
-http://10.16.100.203:8082/bangla/GaZItv_1$top.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", Nagorik TV
-http://10.16.100.245/hindi/n@g0riktv_1st0p.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", News 24 HD
-http://10.16.100.208:8082/hindi/new$_24fouR_1st0p.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", Akash 8
-http://10.16.100.204:8082/hls/akash_aat.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", Colors Bangla
-http://10.16.100.204:8082/hls/col0rsb@ngla.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", Sony 8
-http://10.16.100.204:8082/hls/s0ny8aat.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", Star Jolsha
-http://10.16.100.208:8082/hindi/$tarjasl@_local.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", Zee Bangla
-http://10.16.100.204:8082/hls/zeeb@ngla.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", Ptv Sports
-http://10.16.100.245/hindi/pTvSp0rts.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", Sony Six
-http://10.16.100.207:8088/sports/sony6six_local.m3u8
-
-
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", Sony Ten 1
-http://10.16.100.207:8082/sports/s0nytEn_1onehd.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", Sony Ten 2
-http://10.16.100.207:8088/sports/ten2hd_local.m3u8
-http://10.16.100.245/hindi/ten2HD_templocal.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", Sony Ten 3
-http://10.16.100.207:8082/sports/s0ny_ten3three.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", Star Sports 1
-http://10.16.100.207:8082/sports/starsp0rt$1oneHD.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", Star Sports 2
-http://10.16.100.207:8082/sports/st@r$port$2twoHD.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", Select 1
-http://10.16.100.207:8088/sports/starsselect1hd_locl.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", Select 2
-http://10.16.100.207:8088/sports/sportselect2_hd.m3u8
-
-
-
-
-
 #EXTINF:-1 group-title="Jagobd" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png",T SPORTS
 http://appcdn.jagobd.com:1934/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
 
@@ -377,6 +225,155 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 
 #EXTINF:-1 group-title="BANGLA IPTV" tvg-logo="https://bn.voicetv.tv/assets/logo.png",VOICE
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-id=" " tvg-name="TSports" tvg-logo=" " group-title="ICC TV", T Sports
+http://10.16.100.211/sports/gazitv@.m3u8
+http://10.16.100.203:8082/bangla/t$ports_1$top.m3u8
+
+#EXTINF:-1 group-title="ICC TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png",T Sports HD(BDIX)
+http://10.16.100.245/hindi/ptvSports_1ocal.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name="GAZI TV HD" tvg-logo=" " group-title="ICC TV", GAZI TV HD
+http://10.16.100.245/hindi/Gazitv_1Stop.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", Asian TV
+http://10.16.100.203:8082/bangla/tv_AsiaN.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", ATN BANGLA
+http://10.16.100.203:8082/bangla/ATN_bangla_local.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name="ATN News" tvg-logo=" " group-title="ICC TV", ATN News
+http://10.16.100.245/hindi/atNnews_1st0p.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name="Bangla TV HD" tvg-logo=" " group-title="ICC TV", Bangla TV HD
+http://10.16.100.245/hindi/b@ngla_tv_1stop.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", Boishakhi TV
+http://10.16.100.203:8082/bangla/boishakhi.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name="Ekattor HD" tvg-logo=" " group-title="ICC TV", Ekattor HD
+http://10.16.100.208:8082/hindi/ek@ttOrTV_1$tOp.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", BTV
+http://10.16.100.203:8082/bangla/BTv_NatiOnal_1stop.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", BTV World
+http://10.16.100.203:8082/bangla/btb_w0rld_1stOp.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", Deepto TV
+http://10.16.100.203:8082/bangla/deeptoo_riptv_21.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name="NTV" tvg-logo=" " group-title="ICC TV", NTV
+http://10.16.100.245/hindi/ntv_1sT0p.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name="RTV" tvg-logo=" " group-title="ICC TV", RTV
+http://10.16.100.204:8082/hls/rtv_local.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name="Banglavision HD" tvg-logo=" " group-title="ICC TV", Banglavision HD
+http://10.16.100.203:8082/bangla/banglaviSion_local.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name="Bijoy TV HD" tvg-logo=" " group-title="ICC TV", Bijoy TV HD
+http://10.16.100.203:8082/bangla/bIJoytV_riptv_21.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name="Channel 24" tvg-logo=" " group-title="ICC TV", Channel 24
+http://10.16.100.245/hindi/channeL24_1st0p.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name="Channel 24" tvg-logo=" " group-title="ICC TV", Channel 9
+http://10.16.100.208:8082/hindi/chanNel9nine_1$top.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name="DBC News HD" tvg-logo=" " group-title="ICC TV", DBC News HD
+http://10.16.100.203:8082/bangla/DbcNews_riptv_21.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name="Desh TV" tvg-logo=" " group-title="ICC TV", Desh TV
+http://10.16.100.245/hindi/de$htv_1st0p.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name="Digi Bangla 24 HD" tvg-logo=" " group-title="ICC TV", Maasranga Tv
+http://10.16.100.208:8082/hindi/m@sranga_1stOP.m3u8
+
+
+#EXTINF:-1 tvg-id=" " tvg-name="Digi Bangla 24 HD" tvg-logo=" " group-title="ICC TV", SATV
+http://10.16.100.245/hindi/s@tv_1st0p.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name="Digi Bangla 24 HD" tvg-logo=" " group-title="ICC TV", Somoy TV
+http://10.16.100.203:8082/bangla/somoy_riptv_21.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name="Ekushey TV" tvg-logo=" " group-title="ICC TV", Ekushey TV
+http://10.16.100.203:8082/bangla/ekushe_tv_local.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name="Jamuna TV" tvg-logo=" " group-title="ICC TV", Jamuna TV
+http://10.16.100.203:8082/bangla/jamuna_riptv21.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name="Mohona TV HD" tvg-logo=" " group-title="ICC TV", Mohona TV HD
+http://10.16.100.208:8082/hindi/mohon@_1sTop.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name="My TV HD" tvg-logo=" " group-title="ICC TV", My TV HD
+http://10.16.100.208:8082/hindi/mytV_1$stop.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name="GaanBangla HD" tvg-logo=" " group-title="ICC TV", GaanBangla HD
+http://10.16.100.203:8082/bangla/Ganbangla_riptv.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name="Asian TV HD" tvg-logo=" " group-title="ICC TV", Asian TV HD
+http://10.16.100.203:8082/bangla/tv_AsiaN.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name="Channel i HD" tvg-logo=" " group-title="ICC TV", Channel i HD
+http://10.16.100.203:8082/bangla/chenel_I.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name="Gazi HD 2" tvg-logo=" " group-title="ICC TV", Gazi HD 2
+http://10.16.100.245/hindi/Gazitv_1Stop.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name="Gazi HD 2" tvg-logo=" " group-title="ICC TV", Gazi HD 3
+http://10.16.100.203:8082/bangla/GaZItv_1$top.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", Nagorik TV
+http://10.16.100.245/hindi/n@g0riktv_1st0p.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", News 24 HD
+http://10.16.100.208:8082/hindi/new$_24fouR_1st0p.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", Akash 8
+http://10.16.100.204:8082/hls/akash_aat.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", Colors Bangla
+http://10.16.100.204:8082/hls/col0rsb@ngla.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", Sony 8
+http://10.16.100.204:8082/hls/s0ny8aat.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", Star Jolsha
+http://10.16.100.208:8082/hindi/$tarjasl@_local.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", Zee Bangla
+http://10.16.100.204:8082/hls/zeeb@ngla.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", Ptv Sports
+http://10.16.100.245/hindi/pTvSp0rts.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", Sony Six
+http://10.16.100.207:8088/sports/sony6six_local.m3u8
+
+
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", Sony Ten 1
+http://10.16.100.207:8082/sports/s0nytEn_1onehd.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", Sony Ten 2
+http://10.16.100.207:8088/sports/ten2hd_local.m3u8
+http://10.16.100.245/hindi/ten2HD_templocal.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", Sony Ten 3
+http://10.16.100.207:8082/sports/s0ny_ten3three.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", Star Sports 1
+http://10.16.100.207:8082/sports/starsp0rt$1oneHD.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", Star Sports 2
+http://10.16.100.207:8082/sports/st@r$port$2twoHD.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", Select 1
+http://10.16.100.207:8088/sports/starsselect1hd_locl.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="ICC TV", Select 2
+http://10.16.100.207:8088/sports/sportselect2_hd.m3u8
 
 
 
