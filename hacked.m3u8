@@ -39,6 +39,15 @@ http://iptvbd.jagobd.com:1931/live-orgin/boishakhiplus.stream/chunks.m3u8
 #EXTINF:-1 group-title="Jagobd" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DBC%20News.png",DBC News(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
 
+
+#EXTINF:-1 group-title="Jagobd",Ekushey TV
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
+#EXTINF:-1 group-title="Jagobd",Maasranga TV
+http://iptv.kitv.live:1935/live/maasrangalive/HODMTV/1.m3u8
+
+
+
 #EXTINF:-1 group-title="Jagobd",ATN Music(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/atnmusic.stream/chunks.m3u8
 
@@ -233,6 +242,32 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 
 #EXTINF:-1 group-title="BANGLA IPTV" tvg-logo="https://bn.voicetv.tv/assets/logo.png",VOICE
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
+
+
+#EXTINF:-1 group-title="Sports",Star Sports 1
+http://103.16.24.54:8080/channel1/index.m3u8
+
+#EXTINF:-1 group-title="Sports",Sony pix
+http://103.16.24.54:8080/channel2/index.m3u8
+
+#EXTINF:-1 group-title="Sports",star plus
+http://103.16.24.54:8080/channel3/index.m3u8
+
+#EXTINF:-1 group-title="Sports",zee Bangla
+http://103.16.24.54:8080/channel4/index.m3u8
+
+#EXTINF:-1 group-title="Sports",star jalsha
+http://103.16.24.54:8080/channel5/index.m3u8
+
+#EXTINF:-1 group-title="Sports",& picture
+http://103.16.24.54:8080/channel6/index.m3u8
+
+#EXTINF:-1 group-title="Sports",Sony six
+http://103.16.24.54:8080/channel7/index.m3u8
+
+#EXTINF:-1 group-title="Sports",Star Bharat
+http://103.16.24.54:8080/channel8/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id=" " tvg-name="TSports" tvg-logo=" " group-title="ICC TV", T Sports
