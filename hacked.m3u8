@@ -16,8 +16,9 @@ http://appcdn.jagobd.com:1934/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzb
 #EXTINF:-1 group-title="Jagobd" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png",Ekushey TV 
 http://live.ekushey-tv.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
-#EXTINF:-1 group-title="Jagobd" tvg-logo=" " ,GTV
-http://103.143.235.50:8080/ch2/ch2.m3u8
+#EXTINF:-1 group-title="Jagobd" tvg-logo=" " ,RTV
+https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8
+
 
 
 #EXTINF:-1 group-title="Jagobd" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png",ATN Bangla(Jagobd)
