@@ -3,8 +3,6 @@
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png",Gazi TV
 http://103.143.235.50/Gazi-TV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png",T SPORTS
- https://live.tsports.com/live/tsports_live_720/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png",Live Sports 
 http://103.143.235.50/LIVE1HD/tracks-v1a1/mono.m3u8
@@ -274,6 +272,8 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 http://idvd.multitvsolution.com/idvo/khushboo.m3u8
 
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png",T SPORTS
+ https://live.tsports.com/live/tsports_live_720/index.m3u8
 
 
 
