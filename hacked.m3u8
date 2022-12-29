@@ -276,6 +276,13 @@ http://idvd.multitvsolution.com/idvo/khushboo.m3u8
  https://live.tsports.com/live/tsports_live_720/index.m3u8
 
 
+
+#EXTINF:-1 ,CN
+http://103.143.235.50/CN/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ,Nick cartoon
+http://103.143.235.50/nick/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 ,Sony BBC Earth
 http://103.143.235.50/bbcearth/tracks-v1a1/mono.m3u8
 
