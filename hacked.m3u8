@@ -277,6 +277,30 @@ http://idvd.multitvsolution.com/idvo/khushboo.m3u8
 
 
 
+#EXTINF:-1 ,Sony Ten 1
+http://103.143.235.50/sonyten1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ,Sony Ten 2
+http://103.143.235.50/sonyten2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ,Sony Ten 3
+http://103.143.235.50/sonyten3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ,Sony Ten 5
+http://103.143.235.50/SONY_SportsTen5_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ,Star Sports select 1
+http://103.143.235.50/Star_Sport_Select1HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ,Star Sports select 2
+http://103.143.235.50/select2/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+
 #EXTINF:-1 ,CN
 http://103.143.235.50/CN/tracks-v1a1/mono.m3u8
 
