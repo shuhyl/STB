@@ -18,9 +18,6 @@ http://iptvbd.jagobd.com:1931/live-orgin/news24local.stream/chunks.m3u8
 #EXTINF:-1 group-title="Jagobd" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DBC%20News.png",DBC News(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
 
-
-
-
 #EXTINF:-1 group-title="Jagobd" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20World.png",BTV World(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
 
@@ -82,6 +79,15 @@ http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
 #EXTINF:-1 group-title="Jagobd" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png",Boishakhi TV(Jagobd)
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="Jagobd" tvg-logo="https://i.imgur.com/85zyKWB.jpg",BTV WORLD [BD]
+http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Jagobd" tvg-logo="https://i.imgur.com/1bmJ8rT.png",CHANNEL 24 [BD]
+https://bd.jagobd.com:444/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Jagobd" tvg-logo="https://i.imgur.com/nYRFnW5.png",CHANNEL I HD [BD]
+http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/chunks.m3u8
+
 #EXTINF:-1 group-title="Jagobd" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png",Boishakhi Plus(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/boishakhiplus.stream/chunks.m3u8
 
@@ -94,7 +100,6 @@ http://iptvbd.jagobd.com:1931/live-orgin/atnmusic.stream/chunks.m3u8
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 
-
 #EXTINF:-1 group-title="Jagobd" tvg-logo="https://imgur.com/Yz9WnlX.png",NAN TV [BD]
 https://bd.jagobd.com:444/live-orgin/nantv.stream/chunks.m3u8
 
@@ -104,22 +109,8 @@ https://bd.jagobd.com:444/live-orgin/bangla21tv000889956-sg.stream/chunks.m3u8
 #EXTINF:-1 group-title="Jagobd" tvg-logo="https://i.imgur.com/ESWXan9.png",ATN Islamic
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/live-orgin/atnislamictv.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="Jagobd" tvg-logo="https://i.imgur.com/85zyKWB.jpg",BTV WORLD [BD]
-http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
-
-#EXTINF:-1 group-title="Jagobd" tvg-logo="https://i.imgur.com/1bmJ8rT.png",CHANNEL 24 [BD]
-https://bd.jagobd.com:444/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
-
-#EXTINF:-1 group-title="Jagobd" tvg-logo="https://i.imgur.com/nYRFnW5.png",CHANNEL I HD [BD]
-http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/chunks.m3u8
-
 #EXTINF:-1 group-title="BANGLA IPTV" tvg-logo="https://imgur.com/wMH3tLM.png",VOICE TV [BD]
 https://bd.jagobd.com:444/live-orgin/voicetv.stream/chunks.m3u8
-
-
-
-
-
 
 #EXTINF:-1 group-title="Jagobd" tvg-logo="https://imgur.com/Nfb72lm.png",Deepto HD
 http://iptvbd.jagobd.com:1931/live-orgin/deeptotv.stream/chunks.m3u8
@@ -129,6 +120,9 @@ http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Jagobd" tvg-logo="https://cdn.aliflailabd.com/tv/images/boishakhitv.png",Boishakhi Tv
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
+
+
+
 
 #EXTINF:-1 group-title="Jagobd" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/HRjXQdYEqsE.png",ANANDA TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
