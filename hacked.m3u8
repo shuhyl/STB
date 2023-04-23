@@ -12,6 +12,13 @@ http://12.1.1.1:8082/Star-Sports-1/tracks-v1a1/mono.m3u8?token=21634205302aa95ca
 
 
 
+#EXTINF:-1, IPL 3
+http://12.1.1.1:8082/Gazi-Tv/tracks-v1a1/mono.m3u8?token=2eeec0b2c32549bf44e944f57843c0757790b473-567dafadcd74ab3424428ba37ffac4f3-1682257337-1682246537
+
+
+
+
+
 #EXTINF:-1 group-title="Jagobd" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg",Somoy TV(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 
