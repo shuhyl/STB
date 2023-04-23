@@ -3,18 +3,6 @@
 
 
 
-#EXTINF:-1, IPL
-http://12.1.1.1:8082/Star-Sports-1/index.m3u8?token=4fdfbac030f0f691b11342babd0a90b57ce79bbf-50fdc559f1ae2804a488779be3b32d81-1682256800-1682246000
-
-
-#EXTINF:-1, IPL 2
-http://12.1.1.1:8082/Star-Sports-1/tracks-v1a1/mono.m3u8?token=21634205302aa95ca06e809344a856ec85fe545d-b00840caf2a0a0cc31be011d55838ae3-1682257132-1682246332
-
-
-
-#EXTINF:-1, IPL 3
-http://12.1.1.1:8082/Gazi-Tv/tracks-v1a1/mono.m3u8?token=2eeec0b2c32549bf44e944f57843c0757790b473-567dafadcd74ab3424428ba37ffac4f3-1682257337-1682246537
-
 
 
 
@@ -265,6 +253,18 @@ http://51.159.210.91/madstream.live/starhindi/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Jagobd" tvg-logo="",StarSports 2✨⭐ 
 
+
+#EXTINF:-1, IPL
+http://12.1.1.1:8082/Star-Sports-1/index.m3u8?token=4fdfbac030f0f691b11342babd0a90b57ce79bbf-50fdc559f1ae2804a488779be3b32d81-1682256800-1682246000
+
+
+#EXTINF:-1, IPL 2
+http://12.1.1.1:8082/Star-Sports-1/tracks-v1a1/mono.m3u8?token=21634205302aa95ca06e809344a856ec85fe545d-b00840caf2a0a0cc31be011d55838ae3-1682257132-1682246332
+
+
+
+#EXTINF:-1, IPL 3
+http://12.1.1.1:8082/Gazi-Tv/tracks-v1a1/mono.m3u8?token=2eeec0b2c32549bf44e944f57843c0757790b473-567dafadcd74ab3424428ba37ffac4f3-1682257337-1682246537
 
 
 
