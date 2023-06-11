@@ -1,13 +1,6 @@
 #EXTM3U
 
 
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="Jagobd" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg",Somoy TV(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 
@@ -227,6 +220,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 
 #EXTINF:-1 ,Peace Tv
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
+
 #EXTINF:-1 ,Sony Aath
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 
@@ -240,10 +234,6 @@ http://idvd.multitvsolution.com/idvo/khushboo.m3u8
 #EXTINF:-1 group-title="Jagobd" tvg-logo="https://nagorik.com/wp-content/uploads/2022/02/Nagorik-Logo-150px.png",Nagorik TV
 
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",T Sports
-http://12.1.1.1:8082/T-Sports/tracks-v1a1/mono.m3u8
-
-
 #EXTINF:-1 group-title="Jagobd" tvg-logo="https://i.imgur.com/tPZKfLr.png",Dipto Tv
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deeptotv.stream/live-orgin/deeptotv.stream/chunks.m3
 
@@ -253,39 +243,30 @@ https://pknraj.buzz/api/discovery/Discovery_Kids.m3u8
 
 
 #EXTINF:-1,Atn news
-
 http://12.1.1.1:8082/Atn-News/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Mohona TV
-
 http://12.1.1.1:8082/MohonaTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,T Sports
-
 http://12.1.1.1:8082/T-Sports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Gazi TV 
-
 http://12.1.1.1:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Discovery 
-
 http://12.1.1.1:8082/Discovery-Tv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Nat Geo 
-
 http://12.1.1.1:8082/Nat-Geo/index.m3u8
 
 #EXTINF:-1,SonyAath 
-
 http://12.1.1.1:8082/Sonyaath/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Jalsha Movies
-
 http://12.1.1.1:8082/Jalshamovies/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Nick
-
 http://12.1.1.1:8082/nike/tracks-v1a1/mono.m3u8
 
 
