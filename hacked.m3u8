@@ -263,16 +263,17 @@ http://12.1.1.1:8082/Ten2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Ten 3
 http://12.1.1.1:8082/Ten3/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,Star-Sports-1
+http://12.1.1.1:8082/Star-Sports-1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,
+#EXTINF:-1,Star-Sports-2
+http://12.1.1.1:8082/Star-Sports-2/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,Star-Select-1
+http://12.1.1.1:8082/Star-Select-1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
+#EXTINF:-1,Star-Select-2
+http://12.1.1.1:8082/Star-Select-2/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1,Discovery 
