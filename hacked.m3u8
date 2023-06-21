@@ -292,4 +292,5 @@ http://12.1.1.1:8082/ZeeBanglacinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Nick
 http://12.1.1.1:8082/nike/tracks-v1a1/mono.m3u8
 
-
+#EXTINF:-1 ,T-Sports 
+https://live.tsports.com/live/tsports_live_720/index.m3u8
