@@ -275,6 +275,7 @@ http://12.1.1.1:8082/Star-Select-2/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1,Discovery 
+https://yashrajmod.online/Discovery/989/Discovery_Channel.m3u8
 http://12.1.1.1:8082/Discovery-Tv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Nat Geo 
