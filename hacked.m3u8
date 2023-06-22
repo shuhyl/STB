@@ -294,3 +294,6 @@ http://12.1.1.1:8082/nike/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,T-Sports 
 https://live.tsports.com/live/tsports_live_720/index.m3u8
+
+#EXTINF:-1 ,Gazi TV 
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/gazi-tv/playlist.m3u8
