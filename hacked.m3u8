@@ -335,9 +335,6 @@ https://live.tsports.com/live/tsports_live_720/index.m3u8
 #EXTINF:-1 ,T-Sports 480
 https://live.tsports.com/live/tsports_live_480/index.m3u8
 
-#EXTINF:-1 ,T sports
-https://mprod-cdn.toffeelive.com/banvsafg/match-1/master_1000.m3u8
-
 #EXTINF:-1 ,Gazi TV 
 http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/gazi-tv/playlist.m3u8
 
