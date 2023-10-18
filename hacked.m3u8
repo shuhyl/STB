@@ -342,7 +342,6 @@ https://live.tsports.com/live/tsports_live_480/index.m3u8
 https://live.tsports.com/live/tsports_live_360/index.m3u8
 
 #EXTINF:-1 ,Gazi TV 
-http://113.212.111.246:8080/hls/col2.m3u8
 http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/gazi-tv/playlist.m3u8
 
 #EXTINF:-1 ,Star sports 1
