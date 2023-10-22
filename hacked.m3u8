@@ -363,11 +363,7 @@ http://172.20.2.5:8082/Special-tv-2/index.m3u8
 #EXTINF:-1,Star Sports 1
 http://172.20.2.5:8082/Special-TV/index.m3u8
 
-#EXTINF:-1,Gazi Tv Test
-http://stream.midiplexhd.com:1936/live/sky_4/playlist.m3u8?raiyantokenendtime=1697985940&raiyantokenstarttime=1697978940&raiyantokenhash=C4S5sWBUJyygeJaA8qdm39nvliJf3EhhFX_NADylJxo=
 
-#EXTINF:-1,T Sports Test
-http://stream.midiplexhd.com:1936/live/sky_12/playlist.m3u8?raiyantokenendtime=1697986000&raiyantokenstarttime=1697979000&raiyantokenhash=mJQpnkIFMdEi8ilPOD2HHBXO5jfWEjl8WU0HlUxzLZU=
 
 
 
