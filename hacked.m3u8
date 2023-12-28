@@ -19,8 +19,6 @@ https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Jagobd" tvg-logo=" " ,Duronto TV
-http://89.187.185.89:3232/ban-duronto/tracks-v1a1/mono.m3u8
 
 
 
@@ -31,8 +29,8 @@ http://89.187.185.89:3232/ban-duronto/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 group-title="Jagobd",Ekushey TV
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
+
 
 
 
