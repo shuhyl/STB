@@ -144,6 +144,8 @@ http://172.20.2.5:8082/Nagorik-TV/index.m3u8
 #EXTINF:-1, Mohona TV
 http://172.20.2.5:8082/MohonaTV/index.m3u8
 
+#EXTINF:-1, Boishaki Tv
+http://172.20.2.5:8082/Boishakhi/index.m3u8
 
 
 #EXTINF:-1, TLC HD WORLD
