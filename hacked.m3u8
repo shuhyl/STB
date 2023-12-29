@@ -139,6 +139,9 @@ http://172.20.2.5:8082/Bbc-Earth/index.m3u8
 
 
 
+#EXTINF:-1, TLC HD WORLD
+http://172.20.2.5:8082/TLC_World/index.m3u8
+
 #EXTINF:-1, Colors Bangla Cinema
 http://172.20.2.5:8082/ZeeBanglacinema/index.m3u8
 
@@ -162,8 +165,10 @@ http://172.20.2.5:8082/Bbc-Earth/index.m3u8
 http://172.20.2.5:8082/Nat-Geo/index.m3u8
 
 #EXTINF:-1, Discovery Bangla
-https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8
 http://172.20.2.5:8082/Discovery-Tv/index.m3u8
+https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8
+
+
 
 #EXTINF:-1,Star Sports 2
 http://172.20.2.5:8082/Special-tv-2/index.m3u8
