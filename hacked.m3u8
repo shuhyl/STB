@@ -147,6 +147,10 @@ http://172.20.2.5:8082/MohonaTV/index.m3u8
 #EXTINF:-1, Boishaki Tv
 http://172.20.2.5:8082/Boishakhi/index.m3u8
 
+#EXTINF:-1, BanglaVision
+http://172.20.2.5:8082/BanglaVision/index.m3u8
+
+
 
 #EXTINF:-1, TLC HD WORLD
 http://172.20.2.5:8082/TLC_World/index.m3u8
