@@ -137,6 +137,11 @@ http://172.20.2.5:8082/BBC_World/index.m3u8
 #EXTINF:-1,Sony BBC Earth 🌍
 http://172.20.2.5:8082/Bbc-Earth/index.m3u8
 
+
+
+#EXTINF:-1, Colors Bangla Cinema
+http://172.20.2.5:8082/ZeeBanglacinema/index.m3u8
+
 #EXTINF:-1,Sony Aath
 http://172.20.2.5:8082/Sonyaath/index.m3u8
 
