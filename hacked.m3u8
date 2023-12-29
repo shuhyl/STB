@@ -162,6 +162,8 @@ http://172.20.2.5:8082/Ntv/index.m3u8
 #EXTINF:-1, Channel I
 http://172.20.2.5:8082/Channel-i/index.m3u8
 
+#EXTINF:-1, Channel 24
+http://172.20.2.5:8082/Channel24/index.m3u8
 
 
 #EXTINF:-1, TLC HD WORLD
