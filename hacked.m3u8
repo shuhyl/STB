@@ -165,6 +165,13 @@ http://172.20.2.5:8082/Channel-i/index.m3u8
 #EXTINF:-1, Channel 24
 http://172.20.2.5:8082/Channel24/index.m3u8
 
+#EXTINF:-1, Somoy TV
+http://172.20.2.5:8082/Somoy-TV/index.m3u8
+
+
+
+
+
 
 #EXTINF:-1, TLC HD WORLD
 http://172.20.2.5:8082/TLC_World/index.m3u8
