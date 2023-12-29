@@ -150,6 +150,9 @@ http://172.20.2.5:8082/Boishakhi/index.m3u8
 #EXTINF:-1, BanglaVision
 http://172.20.2.5:8082/BanglaVision/index.m3u8
 
+#EXTINF:-1, SA TV
+http://172.20.2.5:8082/SATV/index.m3u8
+
 
 
 #EXTINF:-1, TLC HD WORLD
