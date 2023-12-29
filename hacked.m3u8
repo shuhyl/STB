@@ -138,6 +138,9 @@ http://172.20.2.5:8082/BBC_World/index.m3u8
 http://172.20.2.5:8082/Bbc-Earth/index.m3u8
 
 
+#EXTINF:-1, Nagorik TV
+http://172.20.2.5:8082/Nagorik-TV/index.m3u8
+
 
 #EXTINF:-1, TLC HD WORLD
 http://172.20.2.5:8082/TLC_World/index.m3u8
