@@ -8,3 +8,37 @@ https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8
 
 #EXTINF:-1 ,Anando TV
 https://tv5.hoichoi24.com/1017/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ,EKUSHEY TV
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
+#EXTINF:-1 ,Ekushey TV
+https://ekusheyserver.com/etvlivesn.m3u8
+
+#EXTINF:-1 ,MOVIE BANGLA
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+
+#EXTINF:-1 ,Peace Tv Bangla
+http://176.119.29.52/live.ts?channelId=237&uid=3702&deviceMac=00:1A:79:3B:33:26
+
+#EXTINF:-1 ,NANDAN Official
+https://web.nandansyst.com/hls/nandan_mid/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
