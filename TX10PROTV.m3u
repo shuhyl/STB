@@ -1,4 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1,Star Sports 1
+http://172.20.2.5:8082/Special-TV/index.m3u8
+
 
 #EXTINF:-1 ,
