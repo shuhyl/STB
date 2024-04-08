@@ -4,7 +4,6 @@
 http://172.20.2.5:8082/Special-TV/index.m3u8
 
 #EXTINF:-1, Discovery Bangla
-http://172.20.2.5:8082/Discovery-Tv/index.m3u8
 https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8
 
 
