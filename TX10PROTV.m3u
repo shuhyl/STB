@@ -27,6 +27,9 @@ https://web.nandansyst.com/hls/nandan_mid/index.m3u8
 #EXTINF:-1 ,Commilla 24
 http://103.149.142.133/0.m3u8
 
+#EXTINF:-1,tvg-logo="" group-title="",Travel XP HD Bangla
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+
 
 
 
