@@ -1,6 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1,Star Sports 1
+
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/800px-Star_Sports_1_HD.png" group-title="",,Star Sports 1
 http://172.20.2.5:8082/Special-TV/index.m3u8
 
 #EXTINF:-1,tvg-logo="" group-title="",Gazi TV
