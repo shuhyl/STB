@@ -45,8 +45,7 @@ http://103.149.142.133/0.m3u8
 #EXTINF:-1,tvg-logo="" group-title="",Travel XP HD Bangla
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1,tvg-logo="http://172.20.2.5/assets/images/gazi.jpg" group-title="",Gazi TV
-https://its-nayeemparvez.xyz/jadoo/master.m3u8?id=gazi_tv_hd
+#EXTINF:-1,tvg-logo="http://172.20.2.5/assets/images/gazi.jpg" group-title="",
 
 #EXTINF:-1,tvg-logo="" group-title="", Bangla Vision
 https://ytlive.nayeemparvez-e39.workers.dev/@banglavisionlive.m3u8
