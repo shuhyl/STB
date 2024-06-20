@@ -154,8 +154,8 @@ http://172.20.2.5:8082/Atn-News/index.m3u8
 #EXTINF:-1, DBC NEWS
 http://172.20.2.5:8082/DBC-NEWS/index.m3u8
 
-
-
+#EXTINF:-1,Nick cartoon
+http://172.20.2.5:8082/nike/tracks-v1/index.m3u8
 
 
 
