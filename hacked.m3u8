@@ -1,6 +1,92 @@
 #EXTM3U
 
 
+#EXTINF:-1, Nagorik TV
+http://172.20.2.5:8082/Nagorik-TV/index.m3u8
+
+#EXTINF:-1, Mohona TV
+http://172.20.2.5:8082/MohonaTV/index.m3u8
+
+#EXTINF:-1, Boishaki Tv
+http://172.20.2.5:8082/Boishakhi/index.m3u8
+
+#EXTINF:-1, BanglaVision
+http://172.20.2.5:8082/BanglaVision/index.m3u8
+
+#EXTINF:-1, SA TV
+http://172.20.2.5:8082/SATV/index.m3u8
+
+#EXTINF:-1, RTV
+http://172.20.2.5:8082/RTV/index.m3u8
+
+#EXTINF:-1, NTV
+http://172.20.2.5:8082/Ntv/index.m3u8
+
+#EXTINF:-1, Channel I
+http://172.20.2.5:8082/Channel-i/index.m3u8
+
+#EXTINF:-1, Channel 24
+http://172.20.2.5:8082/Channel24/index.m3u8
+
+#EXTINF:-1, Somoy TV
+http://172.20.2.5:8082/Somoy-TV/index.m3u8
+
+#EXTINF:-1, Atn news
+http://172.20.2.5:8082/Atn-News/index.m3u8
+
+#EXTINF:-1, DBC NEWS
+http://172.20.2.5:8082/DBC-NEWS/index.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, TLC HD WORLD
+http://172.20.2.5:8082/TLC_World/index.m3u8
+
+#EXTINF:-1, Colors Bangla Cinema
+http://172.20.2.5:8082/ZeeBanglacinema/index.m3u8
+
+#EXTINF:-1,Jolsha Movies
+http://172.20.2.5:8082/Jalshamovies/index.m3u8
+
+
+#EXTINF:-1,Sony Aath
+http://172.20.2.5:8082/Sonyaath/index.m3u8
+
+#EXTINF:-1 ,Gazi TV 
+http://172.20.2.5:8082/Gazi-Tv/index.m3u8
+
+#EXTINF:-1,T Sports
+http://172.20.2.5:8082/T-Sports/index.m3u8
+
+#EXTINF:-1,Sony BBC Earth
+http://172.20.2.5:8082/Bbc-Earth/index.m3u8
+
+#EXTINF:-1, National Geography
+http://172.20.2.5:8082/Nat-Geo/index.m3u8
+
+#EXTINF:-1, Discovery Bangla
+http://172.20.2.5:8082/Discovery-Tv/index.m3u8
+https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8
+
+
+
+#EXTINF:-1,Star Sports 2
+http://172.20.2.5:8082/Special-tv-2/index.m3u8
+
+#EXTINF:-1,Star Sports 1
+http://172.20.2.5:8082/Special-TV/index.m3u8
+
+#EXTINF:-1,Nagorik TV
+http://113.212.111.246:8080/hls/col12.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_bangla.png", ATN Bangla
 https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=atn_bangla
@@ -314,92 +400,6 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 
 
 
-
-
-
-#EXTINF:-1, Nagorik TV
-http://172.20.2.5:8082/Nagorik-TV/index.m3u8
-
-#EXTINF:-1, Mohona TV
-http://172.20.2.5:8082/MohonaTV/index.m3u8
-
-#EXTINF:-1, Boishaki Tv
-http://172.20.2.5:8082/Boishakhi/index.m3u8
-
-#EXTINF:-1, BanglaVision
-http://172.20.2.5:8082/BanglaVision/index.m3u8
-
-#EXTINF:-1, SA TV
-http://172.20.2.5:8082/SATV/index.m3u8
-
-#EXTINF:-1, RTV
-http://172.20.2.5:8082/RTV/index.m3u8
-
-#EXTINF:-1, NTV
-http://172.20.2.5:8082/Ntv/index.m3u8
-
-#EXTINF:-1, Channel I
-http://172.20.2.5:8082/Channel-i/index.m3u8
-
-#EXTINF:-1, Channel 24
-http://172.20.2.5:8082/Channel24/index.m3u8
-
-#EXTINF:-1, Somoy TV
-http://172.20.2.5:8082/Somoy-TV/index.m3u8
-
-#EXTINF:-1, Atn news
-http://172.20.2.5:8082/Atn-News/index.m3u8
-
-#EXTINF:-1, DBC NEWS
-http://172.20.2.5:8082/DBC-NEWS/index.m3u8
-
-
-
-
-
-
-
-
-
-#EXTINF:-1, TLC HD WORLD
-http://172.20.2.5:8082/TLC_World/index.m3u8
-
-#EXTINF:-1, Colors Bangla Cinema
-http://172.20.2.5:8082/ZeeBanglacinema/index.m3u8
-
-#EXTINF:-1,Jolsha Movies
-http://172.20.2.5:8082/Jalshamovies/index.m3u8
-
-
-#EXTINF:-1,Sony Aath
-http://172.20.2.5:8082/Sonyaath/index.m3u8
-
-#EXTINF:-1 ,Gazi TV 
-http://172.20.2.5:8082/Gazi-Tv/index.m3u8
-
-#EXTINF:-1,T Sports
-http://172.20.2.5:8082/T-Sports/index.m3u8
-
-#EXTINF:-1,Sony BBC Earth
-http://172.20.2.5:8082/Bbc-Earth/index.m3u8
-
-#EXTINF:-1, National Geography
-http://172.20.2.5:8082/Nat-Geo/index.m3u8
-
-#EXTINF:-1, Discovery Bangla
-http://172.20.2.5:8082/Discovery-Tv/index.m3u8
-https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8
-
-
-
-#EXTINF:-1,Star Sports 2
-http://172.20.2.5:8082/Special-tv-2/index.m3u8
-
-#EXTINF:-1,Star Sports 1
-http://172.20.2.5:8082/Special-TV/index.m3u8
-
-#EXTINF:-1,Nagorik TV
-http://113.212.111.246:8080/hls/col12.m3u8
 
 
 
