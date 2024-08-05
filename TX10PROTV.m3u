@@ -126,41 +126,10 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
 
 
 
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/2a/Star_Jalsha.png",Star Jalsha
-http://103.107.79.87:8080/CH8110SD01/tracks-v1a1/mono.m3u8
-
-#EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaTuMZSewKz1BucGogxxGmlGnYW75neSM-0jvdGbGg=s900-c-k-c0x00ffffff-no-rj",Zee Bangla
-http://103.107.79.87:8080/CH8110SD03/tracks-v1a1/mono.m3u8
-
-#EXTINF:-0 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNYNrotoUtP6msoj-tMjrN40T0CqsNWmaZBRXYUxNOkjHVFMfz",Bangla Plus
-https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
-
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png",Star Plus HD
-http://xtv.ooo:8080/adnankb2006/86057314/221252
-
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png",Zee TV HD
-http://103.107.79.87:8080/CH8108SD07/tracks-v1a1/mono.m3u8
-
-#EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/08/Colors_Bangla_HD_logo_%282016-alt%29.png/revision/latest/scale-to-width-down/250?cb=20210829014832https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/08/Colors_Bangla_HD_logo_%282016-alt%29.png/revision/latest/scale-to-width-down/250?cb=20210829014832",Colors Bangla HD
-https://tv5.hoichoi24.com/1411/tracks-v1a1/mono.m3u8
-
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png",Sun Bangla
-http://103.107.79.87:8080/CH8110SD04/tracks-v1a1/mono.m3u8
-
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/1200px-Sun_TV_logo.svg.png",Sun TV
 https://ctrl.laotv.la/live/SunTV/index.m3u8
 
-#EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaTap43-dcaqc85zWkzI5qEtEGOW2yCcl1TnxGN7lA=s900-c-k-c0x00ffffff-no-rj",Jalsha Movies HD
-http://103.107.79.87:8080/CH8110SD02/tracks-v1a1/mono.m3u8
 
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/3/3e/%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png",Colors Bangla Cinema
-http://103.107.79.87:8080/1404/tracks-v1a1/mono.m3u8
-
-#EXTINF:-0 tvg-logo="https://media.licdn.com/dms/image/D5622AQEP42TrSTZe9A/feedshare-shrink_800/0/1694197197757?e=2147483647&v=beta&t=po0fbWVIZAVBRE2i3xIULMu2FVxDtMVP8CVNXQdgU_Y",Amar Bangla Digital
-https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
-
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/3/3e/%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png",Zee Bangla Cinema
-http://103.107.79.87:8080/CH8109SD04/tracks-v1a1/mono.m3u8
 
 #EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqMgAFwCYOX0V7GEToy8keJKiMiqfAxNPm68YAfUFg=s900-c-k-c0x00ffffff-no-rj",Enterr10 Bangla
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/cb573e1c786c678b84c83a64cef94382847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258af764cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7fae0554d8e69a6b4011a9d2c44fa83439c8101b2d4d2598316d776f0419c93f783db1481e4325293738aa19d71581fbba43bf9eb5cb8dd96683d99622034713f8482a08e85b81b253938d9ecc2be1f8f7b53430df30a07ba129a4e90399a7eb84bdd89a65a19d8ad236743d4f65a6f20b0f0b2cadf3c25b475f2ade79f01143a58250a259839a24a0f319efcc10491d15ff0dc47d0e63c4d6a80f931ea48e51b4db44713bc5ccf0df4ac0f1978434e68a74eab9b22ff21dc73a9f4de40364269a2805cc88ad811652c1fc6c869dd1d1fb6cc98c3f13a7b9b30550ab320ee520b3a986f2c64b379b0da1d7c992a0fb2303fd05121cf17afef62a6f19bad2d1381f3eb0ebf63e6be0f92d107aa6633104290fa3e5048493281bc36436037930bb493f9e0710812e5b898ad971d6b514b623866bcebe9749499d3694c46b3340854344147d854ac2ab5666e0f21ce12d6d679578d142e20e3e7721d6d6598ccbe969494ad60b06cd8dbf22925590d35a5521ae8e197ba76d3d5ae53032681e06f91/46/1280x720_3072000/index.m3u8
@@ -168,14 +137,9 @@ https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg0
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Enterr-10.jpg/200px-Enterr-10.jpg",Enterr10 
 http://longstream-04.ajaah.com/PlayBoxTV/Enter10/playlist.m3u8
 
-#EXTINF:-0 tvg-logo="https://www.tvoneuk.tv/wp-content/uploads/2021/06/TVONE-LOGO-Colour.png",TV One
-https://livess.ncare.live/live-orgin/tvoneuksni.stream/playlist.m3u8
 
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ABP_Ananda_logo.svg/1200px-ABP_Ananda_logo.svg.png",ABP Ananda
-https://abplivetv.akamaized.net/hls/live/2043012/ananda/master_720p.m3u8
 
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/2/29/%E0%A6%9C%E0%A6%BF_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png",Zee Cinema
-http://103.107.79.87:8080/CH8108SD04/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-0 tvg-logo="https://akm-img-a-in.tosshub.com/sites/visualstory/stories/2023_04/story_31381/assets/2.png?time=1681544765&size=*:900",GNT
 https://tezlive-amd.akamaized.net/hls/live/2016145/gnt/gntlive/live_720p/chunks.m3u8
