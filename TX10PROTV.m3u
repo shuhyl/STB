@@ -141,62 +141,6 @@ http://longstream-04.ajaah.com/PlayBoxTV/Enter10/playlist.m3u8
 
 
 
-
-
-#EXTINF:-0 tvg-logo="http://deentv.uk/wp-content/uploads/2021/08/cropped-DEEN-TV-LOGO-FINAL-80x80-1.png",Deen TV
-https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
-
-#EXTINF:-0 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple30/v4/f3/b0/be/f3b0be12-eacf-89d1-e559-95041f0e8fde/source/512x512bb.jpg",Eman Channel
-https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
-
-#EXTINF:-0 tvg-logo="https://mlrep9guuvbp.i.optimole.com/w:189/h:218/q:mauto/f:best/https://mercytv.tv/wp-content/uploads/2023/11/logo.jpg",Mercy TV
-https://5dd3981940faa.streamlock.net/mercytv/mercytv/playlist.m3u8
-
-#EXTINF:-0 tvg-logo="https://ik.imagekit.io/hoichoi/svf/wp-content/uploads/2021/11/sb-logho.jpg",Sangeet Bangla
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla/index.m3u8
-
-#EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/SET-LOGO-HD.png/revision/latest/scale-to-width-down/250?cb=20221023215435",Sony Television
-http://103.107.79.87:8080/CH8108SD04/tracks-v1a1/mono.m3u8
-
-#EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZTa1jczNwLSGROOaAES1SvsDxPB2N3MSy5sxVJ1qg=s900-c-k-c0x00ffffff-no-rj",9X Tashan
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
-
-#EXTINF:-0 tvg-logo="https://static.wirtualnemedia.pl/media/top/BollywoodHD_logo2018_655.png",Bollywood HD
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
-
-#EXTINF:-0 tvg-logo="https://logos-download.com/wp-content/uploads/2020/06/9XM_Logo.png",9XM
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-0 tvg-logo="https://image.roku.com/developer_channels/prod/09d12195e0968c34e9eac0feb5d8c2fc9cd75eba32c1e5dcd3c6a98e9becabfe.png",Wild Earth
-https://wildearth-roku.amagi.tv/masterR720P.m3u8
-
-#EXTINF:-0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRmYzc5ZWEtZmE4Mi00Yzk1LTlhZTItMDkyNjRlNTRhODVlXkEyXkFqcGdeQXVyMzA2NDMzNDA@._V1_FMjpg_UX1000_.jpg",Hollywood HD
-http://iptv.prosto.tv:7000/ch50/video.m3u8
-
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png",AXN
-http://170.254.18.106/AXN/index.m3u8
-
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png",AXN
-http://103.107.79.87:8080/CH8109SD06/tracks-v1a1/mono.m3u8
-
-#EXTINF:-0 tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png",HBO Xtreme
-http://170.254.18.106/HBO_XTREME/index.m3u8
-
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",HBO Family
-http://170.254.18.106/HBO_FAMILY/index.m3u8
-
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/AXN_Movies_logo.jpg",AXN Movies
-http://fortv.cc:8080//live/N0QaDD/625713/164818.ts
-
-#EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/y_esGAQOhX4rTpWvrALErAJlFbm_2TIVrvcVfcZny7TuA8dJZgOQcC6KRfd_J5hljFe-foYXj9U=s900-c-k-c0x00ffffff-no-rj",BBC News
-http://195.181.175.69:2080/67/index.m3u8
-
-#EXTINF:-0 tvg-logo="https://play-lh.googleusercontent.com/9ZV7_rH_OkAh7N95DCaf6denkZMIldPD5K2nuVxetCym4ixyBx2qk6QBbog3txzwdy4o",ABC News
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-
-#EXTINF:-0 tvg-logo="https://db637ll7r1kva.cloudfront.net/app/uploads/2019/04/19074159/Discovery-HD.png",Discovery HD
-http://103.107.79.87:8080/CH8110SD08/tracks-v1a1/mono.m3u8
-
 #EXTINF:-0 tvg-logo="https://ui.cgtn.com/static/ng/resource/images/logo_title.png",CGTN News
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 
