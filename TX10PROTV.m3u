@@ -287,6 +287,14 @@ https://edge01.iptv.digijadoo.net/live/zee_cinema_hd/playlist.m3u8?md5=DCDbluLm-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg" group-title="JADOO BDIX", ZEE TV
 https://edge01.iptv.digijadoo.net/live/zee_tv/playlist.m3u8?md5=9uMFtki9sCJDNn3gtLSXtQ&expires=1724299385&user=ef71b837ceef4cd18a6cf7069722d83d
 
+#EXTINF:-1,PTV Sports
+https://tv5.hoichoi24.com/1000/video.m3u8
+
+#EXTINF:-1,Nagorik TV
+https://tv5.hoichoi24.com/1113/video.m3u8
+
+#EXTINF:-1,Durontho TV
+https://tv5.hoichoi24.com/1103/video.m3u8
 
 
 
