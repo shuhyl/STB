@@ -154,10 +154,9 @@ https://medialive.akash-go.com/out/v1/4d015848792f45e1bd0ba5ce73452a37/index.mpd
 https://medialive.akash-go.com/out/v1/fa9ba9b216004bedb62d6638c6440a56/index.mpd
 
 
+
+
 #EXTM3U
-
-
-
 
 #EXTINF:-1 group-title="𝗕𝗮𝗻𝗴𝗹𝗮𝗱𝗲𝘀𝗵𝗶" tvg-logo="https://i.postimg.cc/y8cfPVhg/20240822-225146.png",𝘽𝙏𝙑 𝙉𝙖𝙩𝙞𝙤𝙣𝙖𝙡
 http://103.230.105.252:1935/live/btv/manifest_w1943401517.mpd
@@ -184,7 +183,47 @@ http://cdn01.palki.tv/live/AnandaTV-M/index.m3u8
 https://mytvbangla.com/0.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Z54fVGww/20240822-230947.png"group-title="𝗕𝗮𝗻𝗴𝗹𝗮𝗱𝗲𝘀𝗵𝗶", 𝙉𝙖𝙜𝙤𝙧𝙞𝙠 𝙏𝙑
 https://cdn.dhakastream.com/NagorikTV/index.m3u8
+#EXTINF:-1 group-title="𝗕𝗮𝗻𝗴𝗹𝗮𝗱𝗲𝘀𝗵𝗶" tvg-logo="https://i.postimg.cc/fLTBDmGm/20240822-225315.png",𝘼𝙏𝙉 𝘽𝙖𝙣𝙜𝙡𝙖
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCKgdb09/20240822-230145.png" group-title="𝙉𝙚𝙬𝙨 - 𝙔𝙏",𝙎𝙊𝙈𝙊𝙔
+https://utube.buddyxiptv.com/@somoynews360.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G2V7K9fD/20240822-230750.png" group-title="𝙉𝙚𝙬𝙨 - 𝙔𝙏",𝙅𝙖𝙢𝙪𝙣𝙖 𝙏𝙑
+https://utube.buddyxiptv.com/@JamunaTVbd.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wThf5qQt/20240822-230921.png" group-title="𝙉𝙚𝙬𝙨 - 𝙔𝙏",𝙉𝙚𝙬𝙨 24 𝙃𝘿
+https://utube.buddyxiptv.com/@dailynews24x7daily.m3u8
+#EXTINF:-1 group-title="𝙉𝙚𝙬𝙨 - 𝙔𝙏"tvg-logo="https://i.postimg.cc/0ys4hMyd/20240822-230446.png",𝘾𝙝𝙖𝙣𝙣𝙚𝙡 24
+https://utube.buddyxiptv.com/@channel24digital.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hvmC5cF5/20240822-230837.png" group-title="𝙉𝙚𝙬𝙨 - 𝙔𝙏",𝘿𝘽𝘾 𝙉𝙚𝙬𝙨 
+https://utube.buddyxiptv.com/@dbcnewstv.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BnBz3S8W/20240822-230603.png" group-title="𝙉𝙚𝙬𝙨 - 𝙔𝙏",𝙀𝙠𝙖𝙩𝙩𝙤𝙧 𝙏𝙑 𝙃𝘿
+https://utube.buddyxiptv.com/@EkattorTelevision.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gr9VXZTM/20240822-230259.png" group-title="𝙉𝙚𝙬𝙨 - 𝙔𝙏",𝙄𝙣𝙙𝙚𝙥𝙚𝙣𝙙𝙚𝙣𝙩 𝙏𝙑
+https://utube.buddyxiptv.com/@IndependentTelevision.m3u8
+#EXTINF:-1 group-title="𝙉𝙚𝙬𝙨 - 𝙔𝙏" tvg-logo="https://i.postimg.cc/pd019sYq/20240822-230705.png",𝙎𝘼 𝙏𝙑
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3rqnQyn0/20240822-225501.png"group-title="𝙉𝙚𝙬𝙨 - 𝙔𝙏",𝙉 𝙏𝙑
+https://utube.buddyxiptv.com/@NTVDigitalLive.m3u8
+#EXTINF:-1 group-title="𝙉𝙚𝙬𝙨 - 𝙔𝙏"tvg-logo="https://i.postimg.cc/fy1KcFJf/20240822-225533.png",𝙍 𝙏𝙑
+https://utube.buddyxiptv.com/@RtvNews.m3u8
+#EXTINF:-1 group-title="𝙉𝙚𝙬𝙨 - 𝙔𝙏"tvg-logo="https://i.postimg.cc/W4SwWtd3/20240822-225840.png",𝘼𝙏𝙉 𝙉𝙚𝙬𝙨  
+https://utube.buddyxiptv.com/@atnnewsltd.m3u8
+#EXTINF:-1 group-title="𝙉𝙚𝙬𝙨 - 𝙔𝙏"tvg-logo="https://i.postimg.cc/BnTgFms2/20240822-225636.png",𝘽𝙖𝙣𝙜𝙡𝙖𝙫𝙞𝙨𝙞𝙤𝙣
+
+#EXTINF:-1 group-title="𝙉𝙚𝙬𝙨 - 𝙔𝙏" tvg-logo="https://i.postimg.cc/W1L8tBR2/20240822-225717.png",𝘿𝙚𝙨𝙝 𝙏𝙑
+https://utube.buddyxiptv.com/@livedeshtv.m3u8
+#EXTINF:-1 group-title="𝙉𝙚𝙬𝙨 - 𝙔𝙏" tvg-logo="https://i.postimg.cc/W3WS3tVK/20240822-225402.png",𝘾𝙝𝙖𝙣𝙣𝙚𝙡 𝙞
+https://utube.buddyxiptv.com/@channelinews.m3u8
+#EXTINF:-1 group-title="𝙉𝙚𝙬𝙨 - 𝙔𝙏" tvg-logo="https://i.postimg.cc/1tkB62gc/20240822-231147.png",𝙀𝙠𝙝𝙤𝙣 𝙏𝙫
+https://utube.buddyxiptv.com/@ekhontv.m3u8
+#EXTINF:-1 group-title="𝙉𝙚𝙬𝙨 - 𝙔𝙏"tvg-logo="https://i.postimg.cc/76GX5wLZ/20240822-231119.png",𝙉𝙚𝙭𝙪𝙨 𝙏𝙑
+https://utube.buddyxiptv.com/@NexusTelevisionLive.m3u8
+
+
+
+
+
+IPTV
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/25q9Lchk/20240825_063334.png"group-title="𝗕𝗮𝗻𝗴𝗹𝗮𝗱𝗲𝘀𝗵𝗶",𝘾𝙃𝘼𝙉𝙉𝙀𝙇 𝙀𝙐𝙍𝙊𝙋𝙀
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeleurope.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wBSfXXQh/20240825_063600.png"group-title="𝗕𝗮𝗻𝗴𝗹𝗮𝗱𝗲𝘀𝗵𝗶",𝙞𝙊𝙉 𝙏𝙑 𝙐𝙆
@@ -210,8 +249,8 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/biswabanglatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DyBxjkcf/20240825_070021.png"group-title="𝗕𝗮𝗻𝗴𝗹𝗮𝗱𝗲𝘀𝗵𝗶",𝙉𝘼𝙉 𝙏𝙑
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/playlist.m3u8
-#EXTINF:-1 group-title="𝗕𝗮𝗻𝗴𝗹𝗮𝗱𝗲𝘀𝗵𝗶" tvg-logo="https://i.postimg.cc/fLTBDmGm/20240822-225315.png",𝘼𝙏𝙉 𝘽𝙖𝙣𝙜𝙡𝙖
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fLTBDmGm/20240822-225315.png"group-title="𝗕𝗮𝗻𝗴𝗹𝗮𝗱𝗲𝘀𝗵𝗶",𝘼𝙏𝙉 𝙐𝙆
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DwNBhrDt/20240825_070059.png"group-title="𝗕𝗮𝗻𝗴𝗹𝗮𝗱𝗲𝘀𝗵𝗶",𝘽24𝘾
@@ -252,38 +291,8 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCKgdb09/20240822-230145.png" group-title="𝙉𝙚𝙬𝙨 - 𝙔𝙏",𝙎𝙊𝙈𝙊𝙔
-https://utube.buddyxiptv.com/@somoynews360.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/G2V7K9fD/20240822-230750.png" group-title="𝙉𝙚𝙬𝙨 - 𝙔𝙏",𝙅𝙖𝙢𝙪𝙣𝙖 𝙏𝙑
-https://utube.buddyxiptv.com/@JamunaTVbd.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wThf5qQt/20240822-230921.png" group-title="𝙉𝙚𝙬𝙨 - 𝙔𝙏",𝙉𝙚𝙬𝙨 24 𝙃𝘿
-https://utube.buddyxiptv.com/@dailynews24x7daily.m3u8
-#EXTINF:-1 group-title="𝙉𝙚𝙬𝙨 - 𝙔𝙏"tvg-logo="https://i.postimg.cc/0ys4hMyd/20240822-230446.png",𝘾𝙝𝙖𝙣𝙣𝙚𝙡 24
-https://utube.buddyxiptv.com/@channel24digital.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hvmC5cF5/20240822-230837.png" group-title="𝙉𝙚𝙬𝙨 - 𝙔𝙏",𝘿𝘽𝘾 𝙉𝙚𝙬𝙨 
-https://utube.buddyxiptv.com/@dbcnewstv.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BnBz3S8W/20240822-230603.png" group-title="𝙉𝙚𝙬𝙨 - 𝙔𝙏",𝙀𝙠𝙖𝙩𝙩𝙤𝙧 𝙏𝙑 𝙃𝘿
-https://utube.buddyxiptv.com/@EkattorTelevision.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gr9VXZTM/20240822-230259.png" group-title="𝙉𝙚𝙬𝙨 - 𝙔𝙏",𝙄𝙣𝙙𝙚𝙥𝙚𝙣𝙙𝙚𝙣𝙩 𝙏𝙑
-https://utube.buddyxiptv.com/@IndependentTelevision.m3u8
-#EXTINF:-1 group-title="𝙉𝙚𝙬𝙨 - 𝙔𝙏" tvg-logo="https://i.postimg.cc/pd019sYq/20240822-230705.png",𝙎𝘼 𝙏𝙑
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3rqnQyn0/20240822-225501.png"group-title="𝙉𝙚𝙬𝙨 - 𝙔𝙏",𝙉 𝙏𝙑
-https://utube.buddyxiptv.com/@NTVDigitalLive.m3u8
-#EXTINF:-1 group-title="𝙉𝙚𝙬𝙨 - 𝙔𝙏"tvg-logo="https://i.postimg.cc/fy1KcFJf/20240822-225533.png",𝙍 𝙏𝙑
-https://utube.buddyxiptv.com/@RtvNews.m3u8
-#EXTINF:-1 group-title="𝙉𝙚𝙬𝙨 - 𝙔𝙏"tvg-logo="https://i.postimg.cc/W4SwWtd3/20240822-225840.png",𝘼𝙏𝙉 𝙉𝙚𝙬𝙨  
-https://utube.buddyxiptv.com/@atnnewsltd.m3u8
-#EXTINF:-1 group-title="𝙉𝙚𝙬𝙨 - 𝙔𝙏"tvg-logo="https://i.postimg.cc/BnTgFms2/20240822-225636.png",𝘽𝙖𝙣𝙜𝙡𝙖𝙫𝙞𝙨𝙞𝙤𝙣
 
-#EXTINF:-1 group-title="𝙉𝙚𝙬𝙨 - 𝙔𝙏" tvg-logo="https://i.postimg.cc/W1L8tBR2/20240822-225717.png",𝘿𝙚𝙨𝙝 𝙏𝙑
-https://utube.buddyxiptv.com/@livedeshtv.m3u8
-#EXTINF:-1 group-title="𝙉𝙚𝙬𝙨 - 𝙔𝙏" tvg-logo="https://i.postimg.cc/W3WS3tVK/20240822-225402.png",𝘾𝙝𝙖𝙣𝙣𝙚𝙡 𝙞
-https://utube.buddyxiptv.com/@channelinews.m3u8
-#EXTINF:-1 group-title="𝙉𝙚𝙬𝙨 - 𝙔𝙏" tvg-logo="https://i.postimg.cc/1tkB62gc/20240822-231147.png",𝙀𝙠𝙝𝙤𝙣 𝙏𝙫
-https://utube.buddyxiptv.com/@ekhontv.m3u8
-#EXTINF:-1 group-title="𝙉𝙚𝙬𝙨 - 𝙔𝙏"tvg-logo="https://i.postimg.cc/76GX5wLZ/20240822-231119.png",𝙉𝙚𝙭𝙪𝙨 𝙏𝙑
-https://utube.buddyxiptv.com/@NexusTelevisionLive.m3u8
 
 #EXTINF:-1 group-title="𝙉𝙚𝙬𝙨 - 𝙔𝙏" tvg-logo="https://i.postimg.cc/y8xR1nxV/20240823_020825.png",𝘼𝘽𝙋 𝘼𝙣𝙖𝙣𝙙𝙖
 https://utube.buddyxiptv.com/@abpanandatv.m3u8
