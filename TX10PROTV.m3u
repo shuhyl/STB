@@ -1,7 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 TOFFEE
-https://raw.githubusercontent.com/Jeshan-akand/Toffee-Channels-Link-Headers/main/toffee_OTT_Navigator.m3u
+
 
 #EXTINF:-1 group-title="𝗕𝗮𝗻𝗴𝗹𝗮𝗱𝗲𝘀𝗵𝗶" tvg-logo="https://i.postimg.cc/y8cfPVhg/20240822-225146.png",𝘽𝙏𝙑 𝙉𝙖𝙩𝙞𝙤𝙣𝙖𝙡
 http://103.230.105.252:1935/live/btv/manifest_w1943401517.mpd
