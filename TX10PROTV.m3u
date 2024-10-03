@@ -17,6 +17,10 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png" group-title="Indian Bangla", Sony Aath Ts
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=44150
 
+#EXTINF:-1 tvg-id="sony-aath" tvg-name="Sony Aath" tvg-country="IN" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" tvg-chno="sony-aath" group-title="SonyLIV(Worldwide)",Sony Aath
+https://nowsports.in/sliv/stream.php?id=195&e=.m3u8|Referer=https://nowsports.in/sliv/&key=Himel-Op
+
+
 
 
 
