@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1,tvg-logo="" group-title="",T SPORTS
+http://172.20.2.5:8082/T-SPORTS/embed.html?token=81ac52591a4e3465a5bd99e2775f7fbf7538be50-aacbc5e6dd143e2911c4b976dbfff327-1728676062-1728665262&remote=172.20.2.10
 
 
 
