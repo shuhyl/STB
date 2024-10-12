@@ -1,8 +1,7 @@
 #EXTM3U
 
 
-
-
+Bangla
 
 #EXTINF:-1,tvg-logo="http://ctgtv.live/assets/images/ATN News.png" group-title="Bangla",ATN News
 http://172.20.3.1:8080/ATNNews/index.m3u8
@@ -29,8 +28,13 @@ http://172.20.3.1:8080/BanglaVisionHD/index.m3u8
 http://172.20.3.1:8080/MasrangaTVHD/index.m3u8
 
 
+#EXTINF:-1,tvg-logo="http://ctgtv.live/assets/images/Duronto1665400494.png" group-title="Bangla",Duronto TV
+http://172.20.3.1:8080/DurontoTVHD/index.m3u8
+
+#EXTINF:-1,tvg-logo="" group-title="Bangla",
 
 
+Sports
 
 #EXTINF:-1,tvg-logo="http://ctgtv.live/assets/images/TSports1667821226.png" group-title="Sports",T SPORTS
 http://172.20.3.1:8080/TSportsHD/index.m3u8
@@ -45,7 +49,6 @@ http://172.20.3.1:8080/GaziTV/index.m3u8
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
 
-
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/11ec2da7-8b1b-42e0-b68e-1326f7a546ea/1287966f-8af0-4f40-8374-96ff981dd873.png?width=1080" group-title="Bongo(Himel-Op)", Bongo Movies
 https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/bongo-op.m3u8?id=bongo-movies
 
@@ -54,7 +57,6 @@ https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/bongo-op.m3u8?id=bong
 
 #EXTINF:-1 tvg-logo="https://jcwsw2vt33.gpcdn.net/uploads/images/2023/11/08/thumbnails_fea49bdb7dd7a07d6af2d57e634d8a18_goplay_live_tv_1a.jpg" group-title="Bangladeshi", Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png" group-title="Indian Bangla", Sony Aath Ts
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=44150
