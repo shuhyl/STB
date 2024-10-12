@@ -22,11 +22,11 @@ http://172.20.3.1:8080/SomoyTVHD/index.m3u8
 #EXTINF:-1,tvg-logo="http://ctgtv.live/assets/images/Channel i1664976520.png" group-title="Bangla", Channel I
 http://172.20.3.1:8080/ChannelIHD/index.m3u8
 
-#EXTINF:-1,tvg-logo="" group-title="Bangla",
+#EXTINF:-1,tvg-logo="http://ctgtv.live/assets/images/Banglavision HD.png" group-title="Bangla", Bangla Vision
+http://172.20.3.1:8080/BanglaVisionHD/index.m3u8
 
-
-#EXTINF:-1,tvg-logo="" group-title="Bangla",
-
+#EXTINF:-1,tvg-logo="http://ctgtv.live/assets/images/Masranga1667751530.png" group-title="Bangla",Masranga
+http://172.20.3.1:8080/MasrangaTVHD/index.m3u8
 
 
 
