@@ -926,32 +926,13 @@ https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/13/DeshTV2022Logo.svg" group-title="", Desh TV
-https://ythls-v3.onrender.com/channel/UCqyt55f3byoK8rjgO0LBe4Q.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/DBC_News_Logo.svg" group-title="", DBC News
 https://ythls-v3.onrender.com/channel/UCUvXoiDEKI8VZJrr58g4VAw.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" group-title="", Ekhon TV HD
-https://ythls-v3.onrender.com/video/pBs7fqViwB0.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Independent_Television_Logo.svg" group-title="", Independent TV
-https://ythls-v3.onrender.com/video/uaB3hnCucoU.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/JamunaTV_logo.jpg" group-title="", Jamuna TV
 https://ythls-v3.onrender.com/channel/UCDj9HHrRUzlsTuPQN0PHxjw.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/JamunaTV_logo.jpg" group-title="", Jamuna TV [2]
-https://ythls-v3.onrender.com/video/TyIQiNLQzVg.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png" group-title="", Nexus TV HD
-https://ythls-v3.onrender.com/video/idEy9iLMqzk.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4e/Rtv_bangladesh.svg" group-title="", RTV HD
-https://ythls-v3.onrender.com/video/sv-FHoSpNOk.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png" group-title="", Somoy TV HD
-https://ythls-v3.onrender.com/video/aTzRun7M-fk.m3u8
 
 
 
