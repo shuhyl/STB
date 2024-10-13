@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,tvg-logo="" group-title="", Test
-http://172.20.2.5:8082/LIVE-SPORTS/embed.html?token=5e24ee2ffb450edcb6aae81fcf94547ded80c407-489d5c499a77047bb1a008553e283d8b-1728849356-1728838556&remote=172.20.2.10
 
 JagoBD
 
