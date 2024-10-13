@@ -841,6 +841,8 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 http://208.86.19.13:81/514.stream/index.m3u8
 #EXTINF:-1 ,MeTV BD
 https://iptvbd.live/metv1080/1080.m3u8
+
+
 #EXTINF:-1 ,ATN Bangla UK [Jagobd]
 https://livess.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
 #EXTINF:-1 ,TV ONE UK jagobd
@@ -869,6 +871,9 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/discoverpakistan.stream/playlist.m3u8
 #EXTINF:-1 ,NASA TV jagobd
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nasatv.stream/playlist.m3u8
+
+
+
 #EXTINF:-1 ,CARTOON NETWORK HD
 https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8
 #EXTINF:-1 ,POGO
