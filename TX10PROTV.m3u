@@ -210,10 +210,6 @@ https://nowsports.in/sliv/stream.php?id=195&e=.m3u8|Referer=https://nowsports.in
 
 
 
-#EXTINF:-1 group-title="𝗕𝗮𝗻𝗴𝗹𝗮𝗱𝗲𝘀𝗵𝗶" tvg-logo="https://i.postimg.cc/y8cfPVhg/20240822-225146.png",𝘽𝙏𝙑 𝙉𝙖𝙩𝙞𝙤𝙣𝙖𝙡
-http://103.230.105.252:1935/live/btv/manifest_w1943401517.mpd
-#EXTINF:-1 group-title="𝗕𝗮𝗻𝗴𝗹𝗮𝗱𝗲𝘀𝗵𝗶" tvg-logo="https://i.postimg.cc/5NFp4xR7/20240822-225600.png",𝘽𝙤𝙞𝙨𝙝𝙖𝙠𝙝𝙞 𝙏𝙑
-https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/live-orgin/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:-1 group-title="𝗕𝗮𝗻𝗴𝗹𝗮𝗱𝗲𝘀𝗵𝗶"tvg-logo="https://i.postimg.cc/fy1KcFJf/20240822-225533.png",𝙍 𝙏𝙑
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/xdj4TwHX/20240822-230629.png" group-title="𝗕𝗮𝗻𝗴𝗹𝗮𝗱𝗲𝘀𝗵𝗶",𝘼𝙨𝙞𝙖𝙣 𝙏𝙑
@@ -226,8 +222,6 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1R8bF1d6/20240822-230344.png" group-title="𝗕𝗮𝗻𝗴𝗹𝗮𝗱𝗲𝘀𝗵𝗶",𝙈𝙖𝙖𝙨𝙧𝙖𝙣𝙜𝙖 𝙏𝙫
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="𝗕𝗮𝗻𝗴𝗹𝗮𝗱𝗲𝘀𝗵𝗶" tvg-logo="https://i.postimg.cc/pd019sYq/20240822-230705.png",𝙎𝘼 𝙏𝙑
-https://entezeetv.fun/bdcast/hls/index.m3u8?id=1938a86s&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SKKgpWF8/20240822-231026.png"group-title="𝗕𝗮𝗻𝗴𝗹𝗮𝗱𝗲𝘀𝗵𝗶",𝘼𝙣𝙖𝙣𝙙𝙤 𝙏𝙫
 #https://entezeetv.fun/bdcast/hls/index.m3u8?id=zns9eha2&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 
@@ -235,20 +229,11 @@ https://entezeetv.fun/bdcast/hls/index.m3u8?id=1938a86s&e=.m3u8|Referer=https://
 https://mytvbangla.com/0.m3u8
 
 
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="𝗕𝗮𝗻𝗴𝗹𝗮𝗱𝗲𝘀𝗵𝗶" tvg-logo="https://i.postimg.cc/rsDjtcFp/20240822-225424.png",𝙀𝙏𝙑 𝘽𝘼𝙉𝙂𝙇𝘼
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mr68ZtBn/20240822-231053.png"group-title="𝗕𝗮𝗻𝗴𝗹𝗮𝗱𝗲𝘀𝗵𝗶",𝙈𝙊𝙑𝙄𝙀 𝘽𝘼𝙉𝙂𝙇𝘼
-http://alvetv.com/moviebanglatv/8080/index.m3u8
-AgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/b24c.stream/playlist.m3u8
+
+
+
 #EXTINF:-1 group-title="𝗕𝗮𝗻𝗴𝗹𝗮𝗱𝗲𝘀𝗵𝗶" tvg-logo="https://i.postimg.cc/kXrYt6K3/20240822-230901.png",𝘽𝙖𝙣𝙜𝙡𝙖 𝙏𝙫
 https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 #EXTINF:-1 group-title="𝗕𝗮𝗻𝗴𝗹𝗮𝗱𝗲𝘀𝗵𝗶"tvg-logo="https://i.postimg.cc/XYLshsh4/20240822-231006.png",𝘽𝙖𝙣𝙜𝙡𝙖 𝙏𝙑 𝙀𝙪𝙧𝙤𝙥𝙚
