@@ -293,12 +293,6 @@ http://ekdilhai.pro/AF_S2/mpegts?token=ba3442574070a9e78afaf3218e0b9871
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W1z5BGPZ/20240823_024712.png" group-title="𝗦𝗽𝗼𝗿𝘁𝘀",𝘼 𝗦𝗽𝗼𝗿𝘁𝘀 
 http://ekdilhai.pro/PK_PS/index.m3u8?token=f7003f6924312d3482ee2910567d07e1
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/65fsWLS1/20240823_024136.png" group-title="𝗦𝗽𝗼𝗿𝘁𝘀", 𝙎𝙤𝙣𝙮 𝙏𝙚𝙣 1
-http://ekdilhai.pro/SPTEN1HD/mpegts?token=d53bcd0976c324e9a8c5ea39f0b9bb68
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjqC7RYx/20240823_024150.png" group-title="𝗦𝗽𝗼𝗿𝘁𝘀", 𝙎𝙤𝙣𝙮 𝙏𝙚𝙣 2
-http://ekdilhai.pro/IN_SNT2/index.m3u8?token=ed35bc130772d0d29435cee71272324c
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VkK3Mszq/20240823_024219.png" group-title="𝗦𝗽𝗼𝗿𝘁𝘀", 𝙎𝙤𝙣𝙮 𝙏𝙚𝙣 3
-http://ekdilhai.pro/tenso3/index.m3u8?token=da41922098774b00e7fe125d560ef3e5
 
 #EXTINF:-1 group-title="𝗦𝗽𝗼𝗿𝘁𝘀" tvg-logo="https://i.postimg.cc/W4tx7R4Q/20240823_024232.png", 𝙎𝙤𝙣𝙮 𝙏𝙚𝙣 5
 http://humsab.xyz/S_Ten5/index.m3u8
@@ -339,30 +333,7 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/50dpQDQ5/20240823_024742.png"group-title="𝗜𝘀𝗹𝗮𝗺𝗶𝗰",𝙋𝙚𝙖𝙘𝙚 𝙏𝙫 𝘽𝙖𝙣𝙜𝙡𝙖
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
-#EXTINF:-1 group-title="𝗜𝘀𝗹𝗮𝗺𝗶𝗰" tvg-logo="https://i.postimg.cc/W4JX3szb/20240823_024759.png",𝙄𝙎𝙇𝘼𝙈 𝘽𝙖𝙣𝙜𝙡𝙖
-https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/t4vmTQ1v/20240825_062210.png"group-title="𝗜𝘀𝗹𝗮𝗺𝗶𝗰",𝘿𝙀𝙀𝙉 𝙏𝙑
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deentv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/85R4RwL2/20240823_024819.png" group-title="𝗜𝘀𝗹𝗮𝗺𝗶𝗰", 𝙄𝙌𝙍𝘼 𝘽𝘼𝙉𝙂𝙇𝘼
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iqrabanglatvoffice.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgnmBPb5/20240823_024726.png"group-title="𝗜𝘀𝗹𝗮𝗺𝗶𝗰",𝘼𝙏𝙉 𝙄𝙎𝙇𝘼𝙈𝙄𝘾 𝙏𝙑
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnislamictv.stream/playlist.m3u8
-#EXTINF:-1 group-title="𝗜𝘀𝗹𝗮𝗺𝗶𝗰" tvg-logo="https://i.postimg.cc/kGwyZ41w/20240823_024849.png",𝙈𝘼𝙆𝙆𝘼𝙃 𝙏𝙫
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8
-#EXTINF:-1 group-title="𝗜𝘀𝗹𝗮𝗺𝗶𝗰" tvg-logo="https://i.postimg.cc/qvv54M7C/20240825_062737.png",𝙄𝙎𝙇𝘼𝙈 𝙏𝙫
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/islamtv.stream/playlist.m3u8
-#EXTINF:-1 group-title="𝗜𝘀𝗹𝗮𝗺𝗶𝗰" tvg-logo="https://i.postimg.cc/j2d5bG7T/download-11.png",𝘼𝙡 𝙎𝙪𝙣𝙣𝙖𝙝 𝘼𝙡 𝙉𝙖𝙗𝙖𝙬𝙞𝙮𝙖𝙝 𝙏𝙑
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/madina.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/K9LVVR8/IMG-20240129-063524.png" group-title="𝗜𝘀𝗹𝗮𝗺𝗶𝗰",𝙈𝙖𝙙𝙞𝙣𝙖 𝙏𝙫
-https://ythls.armelin.one/channel/UCos52azQNBgW63_9uDJoPDA.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/y6TnWQ19/20240823_024901.png" group-title="𝗜𝘀𝗹𝗮𝗺𝗶𝗰",𝙈𝙖𝙙𝙖𝙣𝙞 𝙏𝙫
-https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
-#EXTINF:-1 group-title="𝗜𝘀𝗹𝗮𝗺𝗶𝗰" tvg-logo="https://i.postimg.cc/VvzRDMRd/20240823_024835.png",𝘼𝙡 𝙌𝙪𝙧𝙖𝙣 𝘼𝙡 𝙆𝙖𝙧𝙚𝙚𝙢 𝙏𝙑
-https://utube.buddyxiptv.com/SaudiQuranTv.m3u8
-#EXTINF:-1 group-title="𝗜𝘀𝗹𝗮𝗺𝗶𝗰" tvg-logo="https://i.postimg.cc/j2d5bG7T/download-11.png",𝘼𝙡 𝙎𝙪𝙣𝙣𝙖𝙝 𝘼𝙡 𝙉𝙖𝙗𝙖𝙬𝙞𝙮𝙖𝙝 𝙏𝙑
-https://utube.buddyxiptv.com/@SaudiSunnahTv.m3u8
-#EXTINF:-1 group-title="𝗜𝘀𝗹𝗮𝗺𝗶𝗰" tvg-logo="https://i.postimg.cc/0NGTJkJw/image.jpg",𝙄'𝙢 𝙖 𝙈𝙪𝙨𝙡𝙞𝙢
-https://utube.buddyxiptv.com/@iamamuslim.m3u8
+
 
 
 
