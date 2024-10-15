@@ -329,7 +329,8 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/50dpQDQ5/20240823_024742.png"group-title="𝗜𝘀𝗹𝗮𝗺𝗶𝗰",𝙋𝙚𝙖𝙘𝙚 𝙏𝙫 𝘽𝙖𝙣𝙜𝙡𝙖
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 
-
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZWY5NmFhNzAtZDM0YS00Zjc4LTljMTQtNWI4YWY3MTBjMjkzXkEyXkFqcGc@._V1_.jpg" group-title="Bangla",Tufan Movie
+https://prantoliv.vercel.app/playlist.m3u8
 
 
 
