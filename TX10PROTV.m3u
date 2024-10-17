@@ -18,7 +18,7 @@ http://172.20.3.1:8080/ATNNews/index.m3u8
 #EXTINF:-1,tvg-logo="http://ctgtv.live/assets/images/Channel 241664824751.png" group-title="Bangla",Channel 24
 http://172.20.3.1:8080/Channel24HD/index.m3u8
 
-#EXTINF:-1,tvg-logo="http://ctgtv.live/assets/images/Independent TV1664976104.png" group-title="Bangla", Independent TV
+#EXTINF:-1,tvg-logo="http://ctgtv.live/assets/images/Independent TV1664976104.png" group-title="Bangla",Independent TV
 http://172.20.3.1:8080/IndependentTV/index.m3u8
 
 #EXTINF:-1,tvg-logo="http://ctgtv.live/assets/images/Jamuna Tv1664825738.png" group-title="Bangla",Jamuna TV
@@ -27,10 +27,10 @@ http://172.20.3.1:8080/JamunaTV/index.m3u8
 #EXTINF:-1,tvg-logo="http://ctgtv.live/assets/images/SomoyTV1689411430.png" group-title="Bangla",Somoy TV
 http://172.20.3.1:8080/SomoyTVHD/index.m3u8
 
-#EXTINF:-1,tvg-logo="http://ctgtv.live/assets/images/Channel i1664976520.png" group-title="Bangla", Channel I
+#EXTINF:-1,tvg-logo="http://ctgtv.live/assets/images/Channel i1664976520.png" group-title="Bangla",Channel I
 http://172.20.3.1:8080/ChannelIHD/index.m3u8
 
-#EXTINF:-1,tvg-logo="http://ctgtv.live/assets/images/Banglavision HD.png" group-title="Bangla", Bangla Vision
+#EXTINF:-1,tvg-logo="http://ctgtv.live/assets/images/Banglavision HD.png" group-title="Bangla",Bangla Vision
 http://172.20.3.1:8080/BanglaVisionHD/index.m3u8
 
 #EXTINF:-1,tvg-logo="http://ctgtv.live/assets/images/Masranga1667751530.png" group-title="Bangla",Masranga
