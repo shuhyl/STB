@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Entertainment Channels" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/612/logo/240x240/mobile_logo_091186001666784752.png", TEST SONY YAY
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1729196137:KeyName=prod_linear:Signature=maLYTXbs1HzdXYIMeG_-kCs2DqGr7lH94fi4NRQiDUolmODzz4Sh3FkSg5G-YSnOYhOZyrlQcx8yE06ylV5nDg"}
+http://172.20.2.5:8082/DBC-NEWS/index.m3u8
 
 JagoBD
 
