@@ -416,3 +416,124 @@ https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 
 
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="", tsports2
+http://103.175.242.10:8080/tsports2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", tsports
+http://103.175.242.10:8080/tsports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Tsports1
+http://103.175.242.10:8080/Tsports1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Gtv
+http://103.175.242.10:8080/27-Gtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", gtv2
+http://103.175.242.10:8080/gtv2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", skysportsfootball
+http://103.175.242.10:8080/skysportsfootball/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", sports18
+http://103.175.242.10:8080/sports18/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Starsport1
+http://103.175.242.10:8080/02-Starsport1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", starsports2
+http://103.175.242.10:8080/starsports2-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", sonyten1
+http://103.175.242.10:8080/sonyten1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", sonysports2
+http://103.175.242.10:8080/54-sonysports2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", sonysports5
+http://103.175.242.10:8080/sonysports5/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Starsportselect
+http://103.175.242.10:8080/31-Starsportselect/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", starsportsselect2
+http://103.175.242.10:8080/starsportsselect2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", foxcricekt
+http://103.175.242.10:8080/foxcricekt/tracks-v1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", ZeeBangla
+http://103.175.242.10:8080/23-ZeeBangla/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Jalshamovies
+http://103.175.242.10:8080/23-Jalshamovies/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Sonyaath
+http://103.175.242.10:8080/25-Sonyaath/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", StarJalsha
+http://103.175.242.10:8080/22-StarJalsha/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", starjalsha
+http://103.175.242.10:8080/starjalsha/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", sonypix
+http://103.175.242.10:8080/sonypix/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", starmovies
+http://103.175.242.10:8080/starmovies/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", moviesnow
+http://103.175.242.10:8080/moviesnow/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", star-movies
+http://103.175.242.10:8080/star-movies/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Sonymax
+http://103.175.242.10:8080/61-Sonymax/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", RTA SPORTS
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", WC T20 Live 6
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/7343/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", WC T20 Live 7
+http://9veyn1bt.otttv.pw/iptv/M9SZURBGLS597E/7343/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Zee Bangla HD (cloudfront)
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd/default/Zeebanglahd.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Zee Bangla (cloudfront)
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", NTV
+http://103.230.105.252:1935/live/ntv/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", EKUSHEY TV HD (Jagobd)
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Star Jalsha HD (30min Left)
+https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Zee Bangla (30min Left)
+https://catchup.yuppcdn.net/amazonv2/36/preview/zeebangla/master/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", T-Sports Live
+https://edge4-moblive.yuppcdn.net/transsd/smil:eventtv.smil/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
