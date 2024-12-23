@@ -305,8 +305,8 @@ http://172.20.3.1:81/TSportsHD/index.m3u8
 #EXTINF:-1,tvg-logo="http://ctgtv.live/assets/images/TSports1667821226.png" group-title="Bangla",T Sports 
 http://172.20.3.1:81/Tsports-raw/index.m3u8
 
-#EXTINF:-1,tvg-logo="" group-title="Bangla",
-
+#EXTINF:-1,tvg-logo="http://ctgtv.live/assets/images/Sun Bangla1664976074.png" group-title="Bangla",Sun Bangla
+http://172.20.3.1:81/SunBangla/index.m3u8
 
 
 
@@ -318,11 +318,6 @@ http://172.20.3.1:81/Tsports-raw/index.m3u8
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/11ec2da7-8b1b-42e0-b68e-1326f7a546ea/1287966f-8af0-4f40-8374-96ff981dd873.png?width=1080" group-title="Bongo(Himel-Op)", Bongo Movies
-https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/bongo-op.m3u8?id=bongo-movies
-
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/7b638c02-91e3-43d2-8d58-fdf8b33acf3e/1439a125-8b15-409d-b9ca-710e1270eb0c.png?width=1080" group-title="Bongo(Himel-Op)", Bongo Dramas
-https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/bongo-op.m3u8?id=bongo-dramas
 
 #EXTINF:-1 tvg-logo="https://jcwsw2vt33.gpcdn.net/uploads/images/2023/11/08/thumbnails_fea49bdb7dd7a07d6af2d57e634d8a18_goplay_live_tv_1a.jpg" group-title="Bangladeshi", Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
