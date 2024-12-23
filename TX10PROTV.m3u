@@ -181,16 +181,16 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HTHV4bX/download.jpg" group-title="",Gaan Bangla 
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gaanbangla-8-orgd.stream/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/chLzRXC/Nagorik-TV-Logo.png" group-title="", Nagorik TV 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/pJVbjVN/images-3.jpg" group-title="",Mohona TV 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/g457N3b/unnamed.png" group-title="",Makkah Live . 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/rGV9Cfr/images.png" group-title="",Madina Live 
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/bHThL1h/unnamed-1.png" group-title="", Millennium TV 
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/millenniumtv-odr-up2.stream/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xmtBpRK/images.jpg" group-title="",Iqra bangla 
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iqrabanglatvoffice.stream/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://feji.us/wrbc8e" group-title="", Sananda TV 
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/sanandatv.stream/playlist.m3u8 
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Mc474bP/images-1.png" group-title="",Maasranga TV 
 https://mhdtvplay.com/bdcast/hls/index.m3u8?id=f190c3dt&e=.m3u8 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/x7NkJJH/images-2.jpg" group-title="", Rongeen TV 
@@ -302,11 +302,10 @@ Sports
 #EXTINF:-1,tvg-logo="http://ctgtv.live/assets/images/TSports1667821226.png" group-title="Bangla",T SPORTS
 http://172.20.3.1:81/TSportsHD/index.m3u8
 
-
 #EXTINF:-1,tvg-logo="http://ctgtv.live/assets/images/TSports1667821226.png" group-title="Bangla",T Sports 
 http://172.20.3.1:81/Tsports-raw/index.m3u8
 
-
+#EXTINF:-1,tvg-logo="" group-title="Bangla",
 
 
 
