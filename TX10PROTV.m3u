@@ -62,6 +62,10 @@ https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://jcwsw2vt33.gpcdn.net/uploads/images/2023/11/08/thumbnails_fea49bdb7dd7a07d6af2d57e634d8a18_goplay_live_tv_1a.jpg" group-title="Bangla", Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 
+#EXTINF:-1  tvg-logo="https://otapp.store/uploads/tv_image/ekushey-tv.png",Ekushey TV
+
+https://ekusheyserver.com/etvlivesn.m3u8
+
 
 
 #EXTINF:-1 group-title="𝗕𝗮𝗻𝗴𝗹𝗮𝗱𝗲𝘀𝗵𝗶"tvg-logo="https://i.postimg.cc/fy1KcFJf/20240822-225533.png",𝙍 𝙏𝙑
