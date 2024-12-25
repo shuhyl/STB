@@ -11,6 +11,7 @@ http://172.20.3.1:81/Channel24HD/index.m3u8
 
 #EXTINF:-1,tvg-logo="http://ctgtv.live/assets/images/Independent TV1664976104.png" group-title="Bangla",Independent TV
 http://172.20.3.1:81/IndependentTV/index.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/independent-8-org.stream/live-orgin/independent-8-org.stream/chunks.m3u8
 
 #EXTINF:-1,tvg-logo="http://ctgtv.live/assets/images/Jamuna Tv1664825738.png" group-title="Bangla",Jamuna TV
 http://172.20.3.1:81/JamunaTV/index.m3u8
