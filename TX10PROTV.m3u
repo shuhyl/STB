@@ -490,7 +490,55 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 
 
+Radio FM
 
+#EXTINF:-1 tvg-logo="https://radiopadma.com/wp-content/uploads/2022/08/Radio-Padma-squire.jpg" group-title="Bangladeshi", Radio Padma
+http://cassini.shoutca.st:9109/radiopadma.mp3
+
+#EXTINF:-1 tvg-logo="https://cdn.instant.audio/images/logos/radio-bd-com/spice.png" group-title="Indian", Spice FM
+https://stream.spicefmbd.com/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://sayajifm.com/wp-content/uploads/2020/07/Sayaji-FM.png" group-title="Indian", Sayaji FM
+https://sayajifm.radioca.st/stream/;?1707488287650
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Bn5pHHctkhw_eb39cvu_Rt9GJcM0wrN7ak40Pzdo1gVjzzgZzIHsvGXibd3ZePY1N3E" group-title="Islamic", Islam
+http://www.islamicpath.net:9898/stream.mp3
+
+#EXTINF:-1 tvg-logo="https://cdn.instant.audio/images/logos/radio-bd-com/bhumi.png" group-title="Bangladeshi", Bhumi
+https://listen.openstream.co/5013/audio
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ry42Nhk/1000010471.png" group-title="Islamic", Radio Baksho
+https://str3.openstream.co/1703?aw_0_1st.collectionid%3D5013%26stationId%3D5013%26publisherId%3D1727%26k%3D1729624595
+
+#EXTINF:-1 tvg-logo="https://www.voiceofislam.ca/sites/default/files/itunes_800.png" group-title="Islamic", Voice of Islam
+http://voiceofislam.appsunder.com:8000/voiceofislam.mp3
+
+#EXTINF:-1 tvg-logo="https://cdn.instant.audio/images/logos/radio-bd-com/capital.png" group-title="Bangladeshi", Capital FM
+https://stream.zeno.fm/4nzaapqw34zuv.aac
+
+#EXTINF:-1 tvg-logo="https://cdn.instant.audio/images/logos/radio-bd-com/dhaka.png" group-title="Bangladeshi", Dhaka FM
+http://118.179.219.244:8000/;
+
+#EXTINF:-1 tvg-logo="https://cdn.instant.audio/images/logos/radio-bd-com/shadhin.png" group-title="Bangladeshi", Shadhin FM
+https://stream.zeno.fm/umq9q5uuva5tv
+
+#EXTINF:-1 tvg-logo="https://cdn.instant.audio/images/logos/radio-bd-com/today.png" group-title="Bangladeshi", Radio Today
+https://stream.zeno.fm/0zha3rfq02quv
+
+#EXTINF:-1 tvg-logo="https://cdn.instant.audio/images/logos/radio-bd-com/foorti.png" group-title="Bangladeshi", Radio Foorti 
+https://stream.zeno.fm/cwa3vg8s8druv
+
+#EXTINF:-1 tvg-logo="https://cdn.instant.audio/images/logos/radio-bd-com/peoples.png" group-title="Bangladeshi", Peoples Radio 
+https://s3.myradiostream.com/14498/;
+
+#EXTINF:-1 tvg-logo="https://cdn.instant.audio/images/logos/radio-bd-com/bangla-net.png" group-title="Bangladeshi", Bangla Net
+https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3563475_SC
+
+#EXTINF:-1 tvg-logo="https://cdn.instant.audio/images/logos/radio-bd-com/goongoon-hd-sound.png" group-title="Islamic", Radio Goongoon 
+https://audio.streamcast.xyz/radio/8000/radio.mp3
+
+#EXTINF:-1 tvg-logo="https://cdn.instant.audio/images/logos/radio-bd-com/jago.png" group-title="Bangladeshi", Jago FM
+http://139.59.86.99:12496/stream/1/
 
 
 
