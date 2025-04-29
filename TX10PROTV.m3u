@@ -3,6 +3,8 @@
 
 Bangla
 
+#EXTINF:-1,tvg-logo="http://ctgtv.live/assets/images/Gazi Tv 21661696120.png" group-title="Bangla",Gazi TV
+https://tvs2.aynaott.com/gtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,tvg-logo="http://ctgtv.live/assets/images/ATN News.png" group-title="Bangla",ATN News
 http://172.20.3.1:81/ATNNews/index.m3u8
